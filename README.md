@@ -29,4 +29,4 @@
 
 [<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-gitlab.svg" width="30px">](<[mailto:giahung197bg@gmail.com@gmail.com](https://gitlab.com/giahungbk)>)
 [<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/hoanggiahung/)
-[<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-important-mail.svg" width="30px">](mailto:giahung197bg@gmail.com@gmail.com)
+[<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-important-mail.svg" width="30px">](mailto:giahung197bg@gmail.com)
