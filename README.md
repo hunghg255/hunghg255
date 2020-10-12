@@ -1,17 +1,32 @@
-### Hi there 👋 I'm Hung
+<p align="center">
+  <img src="https://github.com/hunghg255/hunghg255/blob/v2/img/hello.gif" width="100%">
+  <br><br>
+  <samp>
+    Hi,<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/Hi.gif" width="20px"> I'm Hung Front-end developer
+  </samp>
+</p>
 
-<!--
-**hunghg255/hunghg255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="375" alt="GIF" src="https://github.com/hunghg255/hunghg255/blob/v2/img/dino.gif" />
 
-Here are some ideas to get you started:
+## :pencil2: My Works: :trophy:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### :robot: Open Source Packages :octocat:
 
+## :trophy: Languages and Tools: :robot:
+
+<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-html-5.svg" width="50px"> <img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-css3.svg" width="50px">
+<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-bootstrap.svg" width="50px">
+<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-javascript-logo.svg" width="50px">
+<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-typescript.svg" width="50px">
+<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-react.svg" width="50px">
+<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-firebase.svg" width="50px">
+<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-git.svg" width="50px">
+<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-github.svg" width="50px">
+<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-gitlab.svg" width="50px">
+<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-webpack.svg" width="50px">
+
+## :mailbox: Get in touch: 💬
+
+[<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-gitlab.svg" width="30px">](<[mailto:giahung197bg@gmail.com@gmail.com](https://gitlab.com/giahungbk)>)
+[<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/hoanggiahung/)
+[<img src="https://github.com/hunghg255/hunghg255/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:giahung197bg@gmail.com@gmail.com)
