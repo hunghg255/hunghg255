@@ -20,13 +20,13 @@
 
 ## :mailbox: Connect with me! 💬
 
-<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-gitlab.svg" width="30px"> [Gitlab](https://gitlab.com/giahungbk)
+<p style="display:flex;align-items:center;">[<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-gitlab.svg" width="30px"> Gitlab](https://gitlab.com/giahungbk)</p>
 <br/>
 
-<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-facebook5.svg" width="30px"> [Facebook](https://www.facebook.com/silver.miu/)
+[<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-facebook5.svg" width="30px"> Facebook](https://www.facebook.com/silver.miu/)
 <br/>
 
-<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-linkedin.svg" width="30px"> [Linkedin](https://www.linkedin.com/in/hoanggiahung/)
+[<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-linkedin.svg" width="30px"> Linkedin](https://www.linkedin.com/in/hoanggiahung/)
 <br/>
 
-<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-important-mail.svg" width="30px"> [Email](mailto:giahung197bg@gmail.com)
+[<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-important-mail.svg" width="30px"> Email](mailto:giahung197bg@gmail.com)
