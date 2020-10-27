@@ -2,10 +2,14 @@
 
 <!-- # 👀 Hi stranger! 👋🏻 -->
 
-<h1 align='center'> Hi there, I'm Hung 👋 🧑🏻‍💻 </h1>
-<p>i'm 23 years old.I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi University of Science and Technology (2015 - 2020). Besides, i am really passionate about <span style="color:#272343;background:#ffd803;">Javascript</span> and <span style="color:#272343;background:#ffd803;">Web Development</p>
+<h1 align='center'>Hi there, I'm Hung 👋 🙋</h1>
+<p align="center">
+<samp>
+I'm 23 years old.I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi University of Science and Technology (2015 - 2020). Besides, i am really passionate about <span style="color:#272343;background:#ffd803;">Javascript</span> and <span style="color:#272343;background:#ffd803;">Web Development</span>
+</samp>
+</p>
 
-<h2 align='center'> Languages and Tools </h2>
+<h2 align='center'>Languages and Tools 🔧🏋</h2>
 
 <p align='center'>
 <img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-html-5.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-css3.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-sass.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-bootstrap.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-typescript.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-react.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/gatsbyjs-icon.svg" width="50px">
@@ -16,10 +20,7 @@
 <h2 align='center'> Connect with me! 🌎 </h2>
 
 <p align='center'>
-[<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-gitlab.svg" width="30px">](https://gitlab.com/giahungbk)
-[<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-facebook.svg" width="30px">](https://www.facebook.com/silver.miu/)
-[<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-linkedin1.svg" width="30px">](https://www.linkedin.com/in/hoanggiahung/)
-[<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-important-mail.svg" width="30px">](mailto:giahung197bg@gmail.com)
+<a href="https://gitlab.com/giahungbk"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-gitlab.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/silver.miu/"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-facebook.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hoanggiahung/"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-linkedin1.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:giahung197bg@gmail.com?subject=Hi%20Hung"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-important-mail.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4 align='center'>Made with keyboard and raised_hands</h4>
+<p align='center'><samp>Made with 🧑🏻‍💻 and 🙌</samp></p>
