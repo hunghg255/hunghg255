@@ -5,7 +5,7 @@
 <h1 align='center'>Hi there, I'm Hung 👋✌</h1>
 <p align="center">
 <samp>
-I'm 23 years old.I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi University of Science and Technology (2015 - 2020). Besides, i am really passionate about <span class="highlight">Javascript</span> and <span class="highlight">Web Development</span>...
+I'm 23 years old.I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi University of Science and Technology (2015 - 2020). Besides, i am really passionate about Javascript and Web Development...
 </samp>
 </p>
 
