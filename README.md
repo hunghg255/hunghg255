@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="https://github.com/hunghg255/hunghg255/blob/master/img/hello.gif" width="100%">
-  <br><br>
-  <samp>
-    Hi,<img src="https://github.com/hunghg255/hunghg255/blob/master/img/Hi.gif" width="20px"> I'm Hung Front-end developer
-  </samp>
-</p>
+[![Matrix SVG](https://github.com/hunghg255/hunghg255/blob/master/img/matrix.svg)](https://hunghg255.github.io)
 
-<img align="right" width="375" alt="GIF" src="https://github.com/hunghg255/hunghg255/blob/master/img/dino.gif" />
+<!-- # 👀 Hi stranger! 👋🏻 -->
 
-## :pencil2: My Works: :trophy:
+<h2 align='center'> Hi there, I'm Hung 👋 🧑🏻‍💻 </h2>
 
 - ### :robot: Open Source Packages :octocat:
 
