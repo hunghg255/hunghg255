@@ -20,7 +20,7 @@ I'm 23 years old.I got a bachelor of Electronics and Telecommunication Engineeri
 <h2 align='center'> Connect with me! 🌎 </h2>
 
 <p align='center'>
-<a href="https://gitlab.com/giahungbk"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-gitlab.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/silver.miu/"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-facebook.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hoanggiahung/"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-linkedin1.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:giahung197bg@gmail.com?subject=Hi%20Hung"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-important-mail.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gitlab.com/hunghg255"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-gitlab.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/silver.miu/"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-facebook.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hoanggiahung/"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-linkedin1.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:giahung197bg@gmail.com?subject=Hi%20Hung"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-important-mail.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align='center'><samp>Made with 🧑🏻‍💻 and 🙌</samp></p>
