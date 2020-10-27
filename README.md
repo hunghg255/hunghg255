@@ -7,13 +7,6 @@
 <samp>
 I'm 23 years old.I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi University of Science and Technology (2015 - 2020). Besides, i am really passionate about <span class="highlight">Javascript</span> and <span class="highlight">Web Development</span>...
 </samp>
-<style>
-  .highlight {
-    color:#272343;background:#ffd803;
-    padding: 10px;
-    clip-path: polygon(0 13%, 100% 0%, 100% 86%, 0% 100%);
-  }
-</style>
 </p>
 
 <h2 align='center'>Languages and Tools 🔧🏋</h2>
