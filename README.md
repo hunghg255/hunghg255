@@ -32,6 +32,3 @@ I'm 24 years old.I got a bachelor of Electronics and Telecommunication Engineeri
   <img src="https://github-readme-stats.vercel.app/api/?username=hunghg255&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="485">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&layout=compact&theme=highcontrast&langs_count=10&hide_border=true" width="485"> 
 </div>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hunghg)](https://github.com/anuraghazra/github-readme-stats)
-
