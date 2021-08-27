@@ -27,10 +27,8 @@ I'm 24 years old.I got a bachelor of Electronics and Telecommunication Engineeri
 <p align='center'><samp>Made with 🧑🏻‍💻 and 🙌</samp></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&color=c80000&style=flat" alt="hunghg255" /> </p>
 
-## 🎸 Github Stats:
-<div>
+<h2 align='center'> 📈 Github Stars </h2>
+<div display="inline">
   <img src="https://github-readme-stats.vercel.app/api/?username=hunghg255&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="485">
-</div>
-<div>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&layout=compact&theme=highcontrast&langs_count=10&hide_border=true" width="485"> 
 </div>
