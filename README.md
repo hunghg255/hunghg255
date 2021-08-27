@@ -28,7 +28,6 @@ I'm 24 years old.I got a bachelor of Electronics and Telecommunication Engineeri
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&color=c80000&style=flat" alt="hunghg255" /> </p>
 
 <h2 align='center'> 📈 Github Stars </h2>
-<div display="inline">
-  <img src="https://github-readme-stats.vercel.app/api/?username=hunghg255&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true" width="485">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&layout=compact&theme=highcontrast&langs_count=10&hide_border=true" width="485"> 
-</div>
+
+![Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&theme=ayu-mirage&border_radius=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=6)
