@@ -29,5 +29,7 @@ I'm 24 years old.I got a bachelor of Electronics and Telecommunication Engineeri
 
 <h2 align='center'> 📈 Github Stars </h2>
 
-![Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&theme=ayu-mirage&border_radius=30)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&theme=ayu-mirage&border_radius=30&layout=compact&langs_count=6)
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&theme=ayu-mirage&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&theme=ayu-mirage&border_radius=20&layout=compact&langs_count=6"/>
+</div> 
