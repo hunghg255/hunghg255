@@ -27,6 +27,9 @@ I'm 24 years old.I got a bachelor of Electronics and Telecommunication Engineeri
 <p align='center'><samp>Made with 🧑🏻‍💻 and 🙌</samp></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&color=c80000&style=flat" alt="hunghg255" /> </p>
 
+### Spotify Playing 🎧
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="Hung Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
+
 <h2 align='center'> 📈 Github Stars </h2>
 
  <div>
