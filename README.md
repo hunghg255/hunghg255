@@ -34,5 +34,5 @@ I'm 24 years old.I got a bachelor of Electronics and Telecommunication Engineeri
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&theme=ayu-mirage&border_radius=15&layout=compact&langs_count=6"/>
 </div> 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img height="400" src="https://wakatime.com/share/@hunghg255/e9034e9f-a900-49a7-9111-461e96ad5a14.svg"/>
+
