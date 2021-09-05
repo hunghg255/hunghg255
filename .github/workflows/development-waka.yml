@@ -15,8 +15,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          SHOW_OS: "False"
+          SHOW_OS: "true"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
+          SHOW_LOC_CHART: "true"
