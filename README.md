@@ -37,6 +37,9 @@ I'm 24 years old.I got a bachelor of Electronics and Telecommunication Engineeri
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   11 mins         █████████████████████████   99.65 % 
+```
 <!--END_SECTION:waka-->
 
 
