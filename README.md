@@ -42,10 +42,3 @@ JavaScript   11 mins         █████████████████
 ```
 <!--END_SECTION:waka-->
 
-
- <div>
- <img height="400" src="https://wakatime.com/share/@hunghg255/e9034e9f-a900-49a7-9111-461e96ad5a14.svg"/>
- <img height="400" src="https://wakatime.com/share/@hunghg255/62cde09e-1bed-49eb-aa1f-f0af9e13f21d.svg"/>
- </div>
-
-
