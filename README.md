@@ -38,7 +38,7 @@ I'm 24 years old.I got a bachelor of Electronics and Telecommunication Engineeri
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2021 - 04 September, 2021
+Week: 30 August, 2021 - 05 September, 2021
 
 JavaScript   11 mins         █████████████████████████   99.65 % 
 ```
