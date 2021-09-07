@@ -37,11 +37,5 @@ I'm 24 years old.I got a bachelor of Electronics and Telecommunication Engineeri
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
 <!--START_SECTION:waka-->
-```text
-Week: 31 August, 2021 - 06 September, 2021
-
-JavaScript   7 hrs 30 mins   ████████████████████████▓   98.61 % 
-LESS         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
 <!--END_SECTION:waka-->
 
