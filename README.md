@@ -28,7 +28,8 @@ I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi Univ
 
 <p align='center'><samp>Made with 🧑🏻‍💻 and 🙌</samp></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&color=c80000&style=flat" alt="hunghg255" /> </p>
-
+[![Twitter Followers](https://img.shields.io/twitter/follow/hunghg255?label=Twitter%20Followers!&style=social)](https://twitter.com/intent/follow?screen_name=hunghg255)
+[![GitHub Followers](https://img.shields.io/github/followers/hunghg255?label=GitHub%20Followers!&style=social)](https://github.com/hunghg255)
 <h2 align='center'> 📈 Github Stars </h2>
 
  <div>
@@ -39,7 +40,7 @@ I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi Univ
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2023%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -80,6 +81,6 @@ VS Code                  17 hrs 52 mins      ███████████�
 ```
 
 
- Last Updated on 11/05/2022 05:08:31 UTC
+ Last Updated on 11/05/2022 04:10:41 UTC
 <!--END_SECTION:waka-->
 
