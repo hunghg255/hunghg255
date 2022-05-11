@@ -28,8 +28,7 @@ I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi Univ
 
 <p align='center'><samp>Made with 🧑🏻‍💻 and 🙌</samp></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&color=c80000&style=flat" alt="hunghg255" /> </p>
-[![Twitter Followers](https://img.shields.io/twitter/follow/hunghg255?label=Twitter%20Followers!&style=social)](https://twitter.com/intent/follow?screen_name=hunghg255)
-[![GitHub Followers](https://img.shields.io/github/followers/hunghg255?label=GitHub%20Followers!&style=social)](https://github.com/hunghg255)
+
 <h2 align='center'> 📈 Github Stars </h2>
 
  <div>
