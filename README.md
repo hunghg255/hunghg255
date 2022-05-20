@@ -39,7 +39,7 @@ I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi Univ
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%2054%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -80,6 +80,6 @@ VS Code                  13 hrs 58 mins      ███████████�
 ```
 
 
- Last Updated on 20/05/2022 04:57:28 UTC
+ Last Updated on 20/05/2022 05:44:15 UTC
 <!--END_SECTION:waka-->
 
