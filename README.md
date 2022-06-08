@@ -36,12 +36,12 @@ I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi Univ
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&theme=ayu-mirage&border_radius=15&layout=compact&langs_count=6"/>
 </div> 
 
-<p align="center">
+<div align="center">
   <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=hunghg255&" 
        alt="hunghg255" 
   />
-</p>
+</div>
 
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
