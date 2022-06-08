@@ -38,18 +38,6 @@ I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi Univ
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=hunghg255&show_icons=true&locale=en&layout=compact&langs_count=10" 
-       alt="hunghg255" 
-  />
-</p>
-<p align="center">
-  <img 
-       alt="Hunghg255"
-       src="https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&theme=vue" 
-  />
-</p>
-<p align="center">
-  <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=hunghg255&" 
        alt="hunghg255" 
   />
