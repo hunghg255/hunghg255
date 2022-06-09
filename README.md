@@ -6,9 +6,7 @@
 
 <h2 align='center'>Languages and Tools 🔧🏋</h2>
 
-<p align='center'>
-<!-- <img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-html-5.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-css3.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-sass.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-bootstrap.svg" width="50px"><img width="46" src="https://camo.githubusercontent.com/363242675617648bfbedd1610f89ac28df0f9e1bac8749d83109fafdf8524fff/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667" data-canonical-src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" style="max-width:100%;"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-typescript.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-react.svg" width="50px"><img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/gatsbyjs-icon.svg" width="50px"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="50px">
-  -->
+
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
@@ -22,11 +20,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-
-<!-- <br/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="50px">
-<img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-webpack.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-nodejs.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-mongodb.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-firebase.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-git.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-github.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-gitlab.svg" width="50px"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/vsc.svg" width="50px"> -->
-</p>
 
 <h2 align='center'> Connect with me! 🌎 </h2>
 
