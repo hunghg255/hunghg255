@@ -21,15 +21,12 @@
 <a href="https://hunghg255.github.io/hoang-gia-hung/"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/social-img.png" width="42"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hoanggiahung/"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-linkedin1.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:giahung197bg@gmail.com?subject=Hi%20Hung"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-important-mail.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align='center'><samp>Made with 🧑🏻‍💻 and 🙌</samp></p>
+<h2 align='center'> 📈 Github Stars </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
   <img src="https://shields.io/github/stars/hunghg255">
   <img src="https://img.shields.io/github/followers/hunghg255">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=c80000">
 </p>
-
-<h2 align='center'> 📈 Github Stars </h2>
-
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&border_radius=15"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&border_radius=15&layout=compact&langs_count=6"/>
