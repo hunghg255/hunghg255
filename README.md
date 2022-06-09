@@ -20,8 +20,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%230db7ed.svg?style=flat-square&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%230db7ed.svg?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=flat-square&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%234ea94b.svg?style=flat-square&logo=nginx&logoColor=white)
 
 
 <h2 align='center'> 📈 Github Stars </h2>
