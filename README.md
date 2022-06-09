@@ -21,12 +21,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-<h2 align='center'> Connect with me! 🌎 </h2>
-
-<p align='center'>
-<a href="https://hunghg255.github.io/hoang-gia-hung/"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/social-img.png" width="42"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hoanggiahung/"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-linkedin1.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:giahung197bg@gmail.com?subject=Hi%20Hung"><img src="https://github.com/hunghg255/hunghg255/blob/master/img/icons8-important-mail.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 <h2 align='center'> 📈 Github Stars </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
   <img src="https://shields.io/github/stars/hunghg255">
