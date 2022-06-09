@@ -27,9 +27,9 @@ I got a bachelor of Electronics and Telecommunication Engineering at Ha Noi Univ
 </p>
 
 <p align='center'><samp>Made with 🧑🏻‍💻 and 🙌</samp></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&color=c80000&style=flat" alt="hunghg255" />
-  <img src="https://shields.io/github/stars/hunghg255&color=c80000&style=flat">
-  <img src="https://img.shields.io/github/followers/hunghg255&color=c80000&style=flat">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
+  <img src="https://shields.io/github/stars/hunghg255>
+  <img src="https://img.shields.io/github/followers/hunghg255>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=c80000">
 </p>
 
