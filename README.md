@@ -6,7 +6,7 @@
 
 <h2 align='center'>Languages and Tools 🔧🏋</h2>
 
-
+<div align='center'>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
@@ -24,7 +24,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=flat-square&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%234ea94b.svg?style=flat-square&logo=nginx&logoColor=white)
-
+</div>
 
 <h2 align='center'> 📈 Github Stars </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
