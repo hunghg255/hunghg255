@@ -44,7 +44,7 @@
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C621%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C622%20hrs%2017%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -85,6 +85,6 @@ VS Code                  43 hrs 4 mins       ███████████�
 ```
 
 
- Last Updated on 20/09/2022 09:50:57 UTC
+ Last Updated on 20/09/2022 10:50:14 UTC
 <!--END_SECTION:waka-->
 
