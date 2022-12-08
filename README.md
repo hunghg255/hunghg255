@@ -34,9 +34,9 @@
 </p>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&border_radius=15&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&border_radius=15&layout=compact&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&border_radius=15&layout=compact&langs_count=6&count_private=true"/>
   <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=hunghg255&" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=hunghg255&count_private=true" 
        alt="hunghg255" 
   />
 </div>
