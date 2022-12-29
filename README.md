@@ -40,7 +40,7 @@
        alt="hunghg255" 
   />
   <h2 align='center'> 📈 Contributions in this year </h2>
-  <img src="https://ghchart.rshah.org/hunghg2505" alt="">
+  <img src="https://ghchart.rshah.org/F90716/hunghg2505" alt="">
 </div>
 
 
