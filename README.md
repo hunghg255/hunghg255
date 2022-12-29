@@ -39,7 +39,11 @@
        src="https://github-readme-streak-stats.herokuapp.com/?user=hunghg255&count_private=true" 
        alt="hunghg255" 
   />
+  <h2 align='center'> 📈 Contributions in this year </h2>
+  <img src="https://ghchart.rshah.org/hunghg2505" alt="">
 </div>
+
+
 
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
