@@ -41,6 +41,8 @@
   />
   <h2 align='center'> 📈 Contributions in this year </h2>
   <img src="https://ghchart.rshah.org/F90716/hunghg2505" alt="">
+  
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
 
 
