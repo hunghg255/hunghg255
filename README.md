@@ -43,6 +43,9 @@
   <img src="https://ghchart.rshah.org/F90716/hunghg2505" alt="">
   
   ![](./profile-3d-contrib/profile-green-animate.svg)
+  
+  <h2 align='center'> 🏆 Github Profile Trophy</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=hunghg255" alt="">
 </div>
 
 
