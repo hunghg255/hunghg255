@@ -45,7 +45,11 @@
   ![](./profile-3d-contrib/profile-green-animate.svg)
   
   <h2 align='center'> 🏆 Github Profile Trophy</h2>
-  https://github-profile-trophy.vercel.app/?username=hunghg255&theme=algolia&no-frame=true&no-bg=true&row=1&column=7
+  
+  <img 
+       src="https://github-profile-trophy.vercel.app/?username=hunghg255&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" 
+       alt="hunghg255" 
+  />
 </div>
 
 
