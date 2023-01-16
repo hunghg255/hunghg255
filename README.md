@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Reactjs-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="Reactjs" />
   <img src="https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js&logoColor=white" alt="Nextjs" />
   <img src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" alt="Vuejs" />
+  <img src="https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Nodejs-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Nodejs" />
   <img src="https://img.shields.io/badge/Expressjs-6DA55F?style=flat-square&logo=express&logoColor=white" alt="Expressjs" />
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase" />
