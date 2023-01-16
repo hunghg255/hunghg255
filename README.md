@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-%234ea94b.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Git-%23E34F26.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  
+  <img src="https://img.shields.io/badge/Vitejs-blueviolet?style=flat-square&logo=vite&logoColor=white" alt="Vitejs" />
+  <img src="https://img.shields.io/badge/Webpack-dodgerblue?style=flat-square&logo=webpack&logoColor=white" alt="Webpack" />
 </div>
 
 <h2 align='center'> 📈 Github Stars </h2>
