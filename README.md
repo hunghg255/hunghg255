@@ -2,7 +2,7 @@
 <!-- [![unicorncode_bzb8ey](https://res.cloudinary.com/hunghg255/image/upload/v1647578947/unicorncode_bzb8ey.svg)](https://hunghg255.github.io) -->
 <!-- # 👀 Hi stranger! 👋🏻 -->
 
-<h1 align='center'>Hi there, I'm Hung 👋✌</h1>
+<h1 align='center'>< Hi there, I'm Hung /> 👋✌🏻</h1>
 
 <h2 align='center'>Languages and Tools 🔧🏋</h2>
 
