@@ -63,7 +63,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C408%20hrs%2054%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-620%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -104,6 +104,6 @@ VS Code                  43 hrs 56 mins      ███████████�
 ```
 
 
- Last Updated on 16/02/2023 19:45:15 UTC
+ Last Updated on 16/02/2023 21:41:27 UTC
 <!--END_SECTION:waka-->
 
