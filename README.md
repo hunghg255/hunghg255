@@ -1,5 +1,5 @@
-[![Matrix SVG](https://github.com/hunghg255/hunghg255/blob/master/img/matrix.svg)](https://hunghg.thedev.id)
-<!-- [![unicorncode_bzb8ey](https://res.cloudinary.com/hunghg255/image/upload/v1647578947/unicorncode_bzb8ey.svg)](https://hunghg.thedev.id) -->
+[![Matrix SVG](https://github.com/hunghg255/hunghg255/blob/master/img/matrix.svg)](https://hung.thedev.id)
+<!-- [![unicorncode_bzb8ey](https://res.cloudinary.com/hunghg255/image/upload/v1647578947/unicorncode_bzb8ey.svg)](https://hung.thedev.id) -->
 <!-- # 👀 Hi stranger! 👋🏻 -->
 
 <h1 align='center'>< Hi there, I'm Hung /> 👋✌🏻</h1>
