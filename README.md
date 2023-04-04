@@ -2,8 +2,12 @@
 <!-- [![unicorncode_bzb8ey](https://res.cloudinary.com/hunghg255/image/upload/v1647578947/unicorncode_bzb8ey.svg)](https://hung.thedev.id) -->
 <!-- # 👀 Hi stranger! 👋🏻 -->
 
-<h1 align='center'>< Hi there, I'm Hung /> 👋✌🏻</h1>
+<h1 align='center'>< Hi there, I'm Hung. /> 👋✌🏻</h1>
 
+
+Currently, I'm working as frontend developer. You can follow my blog here [Web totals](https://web-totals.vercel.app/) ✍️ ✍️ ✍️
+
+                       
 <h2 align='center'>Languages and Tools 🔧🏋</h2>
 
 <div align='center'>
@@ -41,7 +45,7 @@
   
 
   | Libraries	| Downloads |
-  |-----------|-----------|
+  |:----------:|:-------------:|
   | [create-template-fe](https://www.npmjs.com/package/create-template-fe)	| ![npm](https://img.shields.io/npm/dm/create-template-fe) |
   | [toastjs-tiny](https://www.npmjs.com/package/toastjs-tiny)	| ![npm](https://img.shields.io/npm/dm/toastjs-tiny) |
   | [mega-menu-aim](https://www.npmjs.com/package/mega-menu-aim)	| ![npm](https://img.shields.io/npm/dm/mega-menu-aim) |
