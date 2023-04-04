@@ -30,21 +30,37 @@
   <img src="https://img.shields.io/badge/Webpack-dodgerblue?style=flat-square&logo=webpack&logoColor=white" alt="Webpack" />
 </div>
 
-<h2 align='center'> 📈 Github Stars </h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
+<h2 align='center'> 📈 Github Stars & Library NPM</h2>
+  
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
   <img src="https://shields.io/github/stars/hunghg255">
   <img src="https://img.shields.io/github/followers/hunghg255">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=c80000">
 </p>
+  
+
+  | Libraries	| Downloads |
+  |-----------|-----------|
+  | [create-template-fe](https://www.npmjs.com/package/create-template-fe)	| ![npm](https://img.shields.io/npm/dm/create-template-fe) |
+  | [toastjs-tiny](https://www.npmjs.com/package/toastjs-tiny)	| ![npm](https://img.shields.io/npm/dm/toastjs-tiny) |
+  | [mega-menu-aim](https://www.npmjs.com/package/mega-menu-aim)	| ![npm](https://img.shields.io/npm/dm/mega-menu-aim) |
+  | [introh-js](https://www.npmjs.com/package/introh-js)	| ![npm](https://img.shields.io/npm/dm/introh-js) |
+  | [number-2-text-vietnamese](https://www.npmjs.com/package/number-2-text-vietnamese)	| ![npm](https://img.shields.io/npm/dm/number-2-text-vietnamese) |
+  | [reactjs-s4y](https://www.npmjs.com/package/reactjs-s4y)	| ![npm](https://img.shields.io/npm/dm/reactjs-s4y) |
+  | [More](https://www.npmjs.com/settings/hunghg255/packages)	|  |
+  
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&border_radius=15&count_private=true"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&border_radius=15&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&border_radius=15&layout=compact&langs_count=6&count_private=true"/>
+   -->
+  
+  <h2 align='center'> 📈 Contributions in this year </h2>
+
   <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=hunghg255&count_private=true" 
        alt="hunghg255" 
   />
-  <h2 align='center'> 📈 Contributions in this year </h2>
-
   
   ![](./profile-3d-contrib/profile-green-animate.svg)
   
