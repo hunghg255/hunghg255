@@ -4,8 +4,14 @@
 
 <h1 align='center'>< Hi there, I'm Hung. /> 👋✌🏻</h1>
 
+<p align="center">
+  <samp>
+  Currently, I'm working as frontend developer. You can follow my blog here
+    <a href="https://web-totals.vercel.app">Web totals</a>
+    ✍️ ✍️ ✍️
+  </samp>
+</p>
 
-Currently, I'm working as frontend developer. You can follow my blog here [Web totals](https://web-totals.vercel.app/) ✍️ ✍️ ✍️
 
                        
 <h2 align='center'>Languages and Tools 🔧🏋</h2>
