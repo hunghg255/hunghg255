@@ -61,6 +61,7 @@
   | [introh-js](https://www.npmjs.com/package/introh-js)	| ![npm](https://img.shields.io/npm/dm/introh-js) |
   | [number-2-text-vietnamese](https://www.npmjs.com/package/number-2-text-vietnamese)	| ![npm](https://img.shields.io/npm/dm/number-2-text-vietnamese) |
   | [fast-react-context](https://www.npmjs.com/package/fast-react-context)	| ![npm](https://img.shields.io/npm/dm/fast-react-context) |
+  | [svg-to-jsx](https://www.npmjs.com/package/agile-svg2jsx)	| ![npm](https://img.shields.io/npm/dm/agile-svg2jsx) |
   
   
 <div align="center">
