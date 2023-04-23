@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Git-%23E34F26.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
-<h2 align='center'> 📈 Github Stars & Library NPM</h2>
+<h2 align='center'> 📈 Github Stars & Library NPM & Vscode Extensions</h2>
   
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
@@ -53,15 +53,17 @@
 </p>
   
 
-  | Libraries	| Downloads |
-  |:----------:|:-------------:|
-  | [create-template-fe](https://www.npmjs.com/package/create-template-fe)	| ![npm](https://img.shields.io/npm/dm/create-template-fe) |
-  | [toastjs-tiny](https://www.npmjs.com/package/toastjs-tiny)	| ![npm](https://img.shields.io/npm/dm/toastjs-tiny) |
-  | [mega-menu-aim](https://www.npmjs.com/package/mega-menu-aim)	| ![npm](https://img.shields.io/npm/dm/mega-menu-aim) |
-  | [introh-js](https://www.npmjs.com/package/introh-js)	| ![npm](https://img.shields.io/npm/dm/introh-js) |
-  | [number-2-text-vietnamese](https://www.npmjs.com/package/number-2-text-vietnamese)	| ![npm](https://img.shields.io/npm/dm/number-2-text-vietnamese) |
-  | [fast-react-context](https://www.npmjs.com/package/fast-react-context)	| ![npm](https://img.shields.io/npm/dm/fast-react-context) |
-  | [svg-to-jsx](https://www.npmjs.com/package/agile-svg2jsx)	| ![npm](https://img.shields.io/npm/dm/agile-svg2jsx) |
+  | Libraries	| Downloads |______________ | Vscode Extensions	
+  |:----------:|:-------------:|:----------:|:----------:|
+  | [create-template-fe](https://www.npmjs.com/package/create-template-fe)	| ![npm](https://img.shields.io/npm/dm/create-template-fe) | | [Agile CSS Suggestion](https://marketplace.visualstudio.com/items?itemName=AgileCssSuggestion.agile-css-suggestion)
+  | [toastjs-tiny](https://www.npmjs.com/package/toastjs-tiny)	| ![npm](https://img.shields.io/npm/dm/toastjs-tiny) | | [Agile CSS Autocomplete](https://marketplace.visualstudio.com/items?itemName=AgileCssAutocomplete.agile-css-autocomplete)
+  | [mega-menu-aim](https://www.npmjs.com/package/mega-menu-aim)	| ![npm](https://img.shields.io/npm/dm/mega-menu-aim) | | 
+  | [introh-js](https://www.npmjs.com/package/introh-js)	| ![npm](https://img.shields.io/npm/dm/introh-js) | | 
+  | [number-2-text-vietnamese](https://www.npmjs.com/package/number-2-text-vietnamese)	| ![npm](https://img.shields.io/npm/dm/number-2-text-vietnamese) | | 
+  | [fast-react-context](https://www.npmjs.com/package/fast-react-context)	| ![npm](https://img.shields.io/npm/dm/fast-react-context) | | 
+  | [svg-to-jsx](https://www.npmjs.com/package/agile-svg2jsx)	| ![npm](https://img.shields.io/npm/dm/agile-svg2jsx) | | 
+  
+  
   
   
 <div align="center">
