@@ -45,7 +45,7 @@
   
 </div>
 
-<h2 align='center'> 📈 Github Stars & Library NPM & Vscode Extensions</h2>
+<h2 align='center'> 📈 Github Stars</h2>
   
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
@@ -54,20 +54,269 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=c80000">
 </p>
   
+<h2 align='center'>💼 Repo</h2>
+  
+<table>
+  <thead align="center">
+    <tr>
+      <th>Name</th>
+      <th>Github</th>
+      <th>Npm</th>
+      <th>Summary</th>
+      <th>Technology</th>
+      <th>Achievement</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <th>
+        create-template-fe
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/create-template-fe" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/create-template-fe" target="_blank">NPM</a>
+      </th>
+      <th>Create template frontend</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/create-template-fe" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/create-template-fe?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        toastjs-tiny
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/toast" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://github.com/hunghg255/toast" target="_blank">NPM</a>
+      </th>
+      <th>Library toasty</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/toastjs-tiny" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/toast?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        mega-menu-aim
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/menu-mega-aim" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/mega-menu-aim" target="_blank">NPM</a>
+      </th>
+      <th>Library Mega Menu Aim</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/mega-menu-aim" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/menu-mega-aim?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        introh-js
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/intro-js" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/introh-js?activeTab=readme" target="_blank">NPM</a>
+      </th>
+      <th>Library Tutorial Website</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/introh-js" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/intro-js?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        number-2-text-vietnamese
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/number-2-text-vietnamese" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/number-2-text-vietnamese" target="_blank">NPM</a>
+      </th>
+      <th>Library convert number to vietnamese</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/number-2-text-vietnamese" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/number-2-text-vietnamese?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        fast-react-context
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/fast-react-context" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/fast-react-context" target="_blank">NPM</a>
+      </th>
+      <th>Make React Context Faster</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/fast-react-context" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/fast-react-context?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        svg-to-jsx
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/svg-to-jsx" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/agile-svg2jsx" target="_blank">NPM</a>
+      </th>
+      <th>Script Convert Svg to Component</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/agile-svg2jsx" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/agile-svg2jsx?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        agile-css
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/agile-css" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/agile-css" target="_blank">NPM</a>
+      </th>
+      <th>Atomic CSS</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/agile-css" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/agile-css?style=flat-square" alt="badge">
+      </th>
+    </tr>
+     <tr>
+      <th>
+        react-gh-corners
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/react-github-corners" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/react-gh-corners" target="_blank">NPM</a>
+      </th>
+      <th>Library Show link github at corner</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/react-gh-corners" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/react-gh-corners?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        jotai-tiny
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/jotai-tiny" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/jotai-tiny" target="_blank">NPM</a>
+      </th>
+      <th>React state manager</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/jotai-tiny" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/jotai-tiny?style=flat-square" alt="badge">
+      </th>
+    </tr>
+   </tbody>
+</table>
 
-  | Libraries	| Downloads |______________ | Vscode Extensions	
-  |:----------:|:-------------:|:----------:|:----------:|
-  | [create-template-fe](https://www.npmjs.com/package/create-template-fe)	| ![npm](https://img.shields.io/npm/dm/create-template-fe) | | [Agile CSS Suggestion](https://marketplace.visualstudio.com/items?itemName=AgileCssSuggestion.agile-css-suggestion)
-  | [toastjs-tiny](https://www.npmjs.com/package/toastjs-tiny)	| ![npm](https://img.shields.io/npm/dm/toastjs-tiny) | | [Agile CSS Autocomplete](https://marketplace.visualstudio.com/items?itemName=AgileCssAutocomplete.agile-css-autocomplete)
-  | [mega-menu-aim](https://www.npmjs.com/package/mega-menu-aim)	| ![npm](https://img.shields.io/npm/dm/mega-menu-aim) | | 
-  | [introh-js](https://www.npmjs.com/package/introh-js)	| ![npm](https://img.shields.io/npm/dm/introh-js) | | 
-  | [number-2-text-vietnamese](https://www.npmjs.com/package/number-2-text-vietnamese)	| ![npm](https://img.shields.io/npm/dm/number-2-text-vietnamese) | | 
-  | [fast-react-context](https://www.npmjs.com/package/fast-react-context)	| ![npm](https://img.shields.io/npm/dm/fast-react-context) | | 
-  | [svg-to-jsx](https://www.npmjs.com/package/agile-svg2jsx)	| ![npm](https://img.shields.io/npm/dm/agile-svg2jsx) | | 
-  | [Atomic-css](https://www.npmjs.com/package/agile-css)	| ![npm](https://img.shields.io/npm/dm/agile-css) | | 
-  | [Github Corners](https://github.com/hunghg255/github-corners)	| ![npm](https://img.shields.io/npm/dm/gh-corners) | | 
+<h2 align='center'>💼 Extensions</h2>
   
-  
+<table>
+  <thead align="center">
+    <tr>
+      <th>Name</th>
+      <th>Github</th>
+      <th>Marketplace</th>
+      <th>Summary</th>
+      <th>Technology</th>
+      <th>Achievement</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <th>
+        Agile CSS Suggestion
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/agile-css-suggestion" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://marketplace.visualstudio.com/items?itemName=AgileCssSuggestion.agile-css-suggestion" target="_blank">Marketplace</a>
+      </th>
+      <th>Suggest Classname CSS</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+       <img src="https://img.shields.io/github/stars/hunghg255/agile-css-suggestion?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        Agile Css Autocomplete
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/agile-css-extensions" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://marketplace.visualstudio.com/items?itemName=AgileCssAutocomplete.agile-css-autocomplete" target="_blank">Marketplace</a>
+      </th>
+      <th>Suggest class for agile-css library</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/agile-css-extensions?style=flat-square" alt="badge">
+      </th>
+    </tr>
+   </tbody>
+</table>
   
   
 <div align="center">
