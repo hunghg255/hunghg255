@@ -200,7 +200,7 @@
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/agile-svg2jsx" alt="badge">
-        <img src="https://img.shields.io/github/stars/hunghg255/agile-svg2jsx?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/svg-to-jsx?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
@@ -239,7 +239,7 @@
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/react-gh-corners" alt="badge">
-        <img src="https://img.shields.io/github/stars/hunghg255/react-gh-corners?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/react-github-corners?style=flat-square" alt="badge">
       </th>
     </tr>
     <tr>
