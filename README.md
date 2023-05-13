@@ -95,7 +95,7 @@
         <a href="https://github.com/hunghg255/toast" target="_blank">Github</a>
       </th>
        <th>
-        <a href="https://github.com/hunghg255/toast" target="_blank">NPM</a>
+        <a href="https://github.com/package/toast" target="_blank">NPM</a>
       </th>
       <th>Library toasty</th>
       <th>
@@ -299,7 +299,7 @@
     </tr>
     <tr>
       <th>
-        Agile Css Autocomplete
+        Agile CSS Autocomplete
       </th>
       <th>
         <a href="https://github.com/hunghg255/agile-css-extensions" target="_blank">Github</a>
