@@ -95,7 +95,7 @@
         <a href="https://github.com/hunghg255/toast" target="_blank">Github</a>
       </th>
        <th>
-        <a href="https://github.com/package/toast" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/toastjs-tiny" target="_blank">NPM</a>
       </th>
       <th>Library toasty</th>
       <th>
