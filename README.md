@@ -315,6 +315,25 @@
         <img src="https://img.shields.io/github/stars/hunghg255/agile-css-extensions?style=flat-square" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th>
+        CSS To TailwindCSS
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/css-to-tailwindcss-extension" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://marketplace.visualstudio.com/items?itemName=hunghg255.css-2-tailwindcss" target="_blank">Marketplace</a>
+      </th>
+      <th>Convert CSS to Tailwindcss</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/css-to-tailwindcss-extension?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    
    </tbody>
 </table>
   
