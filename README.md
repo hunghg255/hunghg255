@@ -6,15 +6,15 @@
 
 <p align="center">
   <samp>
-  Currently, I'm working as frontend developer. You can follow my blog here
-    <a href="https://web-totals.vercel.app">Web totals</a>
-    ✍️ ✍️ ✍️
+    <a href="https://hung.thedev.id">me</a> .
+    <a href="https://web-totals.vercel.app/">blog</a> .
+    <a href="https://twitter.com/hunghg255">tweets</a> .
+    <a href="https://www.instagram.com/hello_silver_miu/">instagram</a>
   </samp>
 </p>
 
 
-                       
-<h2 align='center'>Languages and Tools 🔧🏋</h2>
+<!-- <h2 align='center'>Languages and Tools 🔧🏋</h2>
 
 <div align='center'>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
   <img src="https://img.shields.io/badge/Vitejs-blueviolet?style=flat-square&logo=vite&logoColor=white" alt="Vitejs" />
   <img src="https://img.shields.io/badge/Webpack-dodgerblue?style=flat-square&logo=webpack&logoColor=white" alt="Webpack" />
-  
+
   <img src="https://img.shields.io/badge/Nodejs-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Nodejs" />
   <img src="https://img.shields.io/badge/Expressjs-6DA55F?style=flat-square&logo=nestjs&logoColor=white" alt="Expressjs" />
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase" />
@@ -42,20 +42,20 @@
   <img src="https://img.shields.io/badge/Nginx-%234ea94b.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/Git-%23E34F26.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VScode-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white" alt="vscode" />
-  
-</div>
+
+</div> -->
 
 <h2 align='center'> 📈 Github Stars</h2>
-  
-<p align="center"> 
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
   <img src="https://shields.io/github/stars/hunghg255">
   <img src="https://img.shields.io/github/followers/hunghg255">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=c80000">
 </p>
-  
+
 <h2 align='center'>💼 Repo</h2>
-  
+
 <table>
   <thead align="center">
     <tr>
@@ -286,7 +286,7 @@
 </table>
 
 <h2 align='center'>💼 Extensions</h2>
-  
+
 <table>
   <thead align="center">
     <tr>
@@ -353,30 +353,30 @@
         <img src="https://img.shields.io/github/stars/hunghg255/css-to-tailwindcss-extension?style=flat-square" alt="badge">
       </th>
     </tr>
-    
+
    </tbody>
 </table>
-  
-  
+
+
 <div align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&border_radius=15&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg255&border_radius=15&layout=compact&langs_count=6&count_private=true"/>
    -->
-  
+
   <h2 align='center'> 📈 Contributions in this year </h2>
 
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=hunghg255&count_private=true" 
-       alt="hunghg255" 
+  <img
+       src="https://github-readme-streak-stats.herokuapp.com/?user=hunghg255&count_private=true"
+       alt="hunghg255"
   />
-  
+
   ![](./profile-3d-contrib/profile-green-animate.svg)
-  
+
   <h2 align='center'> 🏆 Github Profile Trophy</h2>
-  
-  <img 
-       src="https://github-profile-trophy.vercel.app/?username=hunghg255&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" 
-       alt="hunghg255" 
+
+  <img
+       src="https://github-profile-trophy.vercel.app/?username=hunghg255&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"
+       alt="hunghg255"
   />
 </div>
 
@@ -389,39 +389,39 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                488 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-🌆 Daytime                845 commits         █████████░░░░░░░░░░░░░░░░   36.69 % 
-🌃 Evening                565 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-🌙 Night                  405 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+🌞 Morning                488 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 %
+🌆 Daytime                845 commits         █████████░░░░░░░░░░░░░░░░   36.69 %
+🌃 Evening                565 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 %
+🌙 Night                  405 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 %
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Tuesday                  415 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Wednesday                427 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Thursday                 503 commits         █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Friday                   293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Sunday                   207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Monday                   228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Tuesday                  415 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 %
+Wednesday                427 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 %
+Thursday                 503 commits         █████░░░░░░░░░░░░░░░░░░░░   21.84 %
+Friday                   293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Saturday                 230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Sunday                   207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               26 hrs 47 mins      █████████████████░░░░░░░░   66.75 % 
-Other                    7 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-JSON                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+💬 Programming Languages:
+TypeScript               26 hrs 47 mins      █████████████████░░░░░░░░   66.75 %
+Other                    7 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 %
+JSON                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 
-🔥 Editors: 
-VS Code                  40 hrs 8 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  40 hrs 8 mins       █████████████████████████   100.00 %
 ```
 
 
