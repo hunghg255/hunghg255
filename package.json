@@ -1,0 +1,23 @@
+{
+  "name": "hunghg255",
+  "version": "0.0.0",
+  "description": "Hi, I am Hung",
+  "bugs": "https://github.com/hunghg255/hunghg255",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hunghg255/hunghg255"
+  },
+  "funding": "https://github.com/sponsors/hunghg255",
+  "license": "MIT",
+  "author": "hunghg255 <giahung197bg@gmail.com>",
+  "main": "index.js",
+  "bin": {
+    "hunghg255": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
