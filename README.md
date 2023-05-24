@@ -283,6 +283,26 @@
         <img src="https://img.shields.io/github/stars/hunghg255/css2tailwind?style=flat-square" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th>
+        reactjs-otp-input
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/reactjs-otp-input" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/reactjs-otp-input" target="_blank">NPM</a>
+      </th>
+      <th>React OTP Input</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/reactjs-otp-input" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/reactjs-otp-input?style=flat-square" alt="badge">
+      </th>
+    </tr>
    </tbody>
 </table>
 
