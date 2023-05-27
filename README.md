@@ -81,7 +81,7 @@
       </th>
       <th>Create template frontend</th>
       <th>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/create-template-fe" alt="badge">
