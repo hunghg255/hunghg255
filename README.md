@@ -316,7 +316,7 @@
       <th>CSV Parsers Nodejs</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
-        <img src="https://img.shields.io/badge/Nodejs-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+        <img src="https://img.shields.io/badge/Nodejs-233056?style=flat-square&amp;logo=node.js&amp;logoColor=84ba64" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/csvs-parsers" alt="badge">
