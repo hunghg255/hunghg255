@@ -323,6 +323,26 @@
         <img src="https://img.shields.io/github/stars/hunghg255/csvs-parsers?style=flat-square" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th>
+        music-lyrics
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/music-lyrics" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/@hunghg255/music-lyrics" target="_blank">NPM</a>
+      </th>
+      <th>Get lyrics of song</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Nodejs-233056?style=flat-square&amp;logo=node.js&amp;logoColor=84ba64" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/@hunghg255/music-lyrics" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/music-lyrics?style=flat-square" alt="badge">
+      </th>
+    </tr>
    </tbody>
 </table>
 
