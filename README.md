@@ -343,6 +343,26 @@
         <img src="https://img.shields.io/github/stars/hunghg255/music-lyrics?style=flat-square" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th>
+        next-i18next-typesafe
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/next-i18next-typesafe" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://badge.fury.io/js/next-i18next-typesafe" target="_blank">NPM</a>
+      </th>
+      <th>Nextjs i18n typesafe</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Next.js-20232A?style=flat-square&amp;logo=next.js&amp;logoColor=FFF" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/next-i18next-typesafe" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/next-i18next-typesafe?style=flat-square" alt="badge">
+      </th>
+    </tr>
    </tbody>
 </table>
 
