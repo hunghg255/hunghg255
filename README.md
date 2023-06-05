@@ -351,7 +351,7 @@
         <a href="https://github.com/hunghg255/next-i18next-typesafe" target="_blank">Github</a>
       </th>
        <th>
-        <a href="https://badge.fury.io/js/next-i18next-typesafe" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/next-i18next-typesafe" target="_blank">NPM</a>
       </th>
       <th>Nextjs i18n typesafe</th>
       <th>
