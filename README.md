@@ -439,6 +439,31 @@
    </tbody>
 </table>
 
+<h2 align='center'>💼 Bots</h2>
+
+<table>
+  <thead align="center">
+    <tr>
+      <th>Name</th>
+      <th>Application</th>
+      <th>Invite</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <th>
+        Music Bot
+      </th>
+      <th>
+        Discord
+      </th>
+      <th>
+        <a href="https://discord.com/api/oauth2/authorize?client_id=1000354375409086484&permissions=274915121472&scope=bot" target="_blank">Invite</a>
+      </th>
+    </tr>
+   </tbody>
+</table>
+
 
 <div align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&border_radius=15&count_private=true"/>
