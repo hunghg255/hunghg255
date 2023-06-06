@@ -447,6 +447,8 @@
       <th>Name</th>
       <th>Application</th>
       <th>Invite</th>
+      <th>Commands</th>
+      <th>Technology</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -459,6 +461,12 @@
       </th>
       <th>
         <a href="https://discord.com/api/oauth2/authorize?client_id=1000354375409086484&permissions=274915121472&scope=bot" target="_blank">Invite</a>
+      </th>
+      <th>
+        <a href="https://music1-bot.vercel.app/" target="_blank">Commands</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/badge/Nodejs-233056?style=flat-square&amp;logo=node.js&amp;logoColor=84ba64" alt="badge">
       </th>
     </tr>
    </tbody>
