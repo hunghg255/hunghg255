@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     <a href="https://hung.thedev.id">me</a> .
-    <a href="https://web-totals.vercel.app/">blog</a> .
+    <a href="https://web-totals.vercel.app/blog">blog</a> .
     <a href="https://hung.thedev.id/projects">projects</a> .
     <a href="https://twitter.com/hunghg255">tweets</a> .
     <a href="https://www.instagram.com/hello_silver_miu/">instagram</a> .
