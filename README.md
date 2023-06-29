@@ -63,7 +63,11 @@
 <h2 align='center'>📖 Latest blog posts</h2>
 
 <!-- start-blog-posts -->
-
+- [Build tools frontend 2023](https://web-totals.vercel.app/blog/build-tools-frontend-2023)
+- [Center css](https://web-totals.vercel.app/blog/center-css)
+- [Convert svgs to jsx](https://web-totals.vercel.app/blog/convert-svgs-to-jsx)
+- [Handle form antd part 1](https://web-totals.vercel.app/blog/handle-form-antd-part-1)
+- [Html input](https://web-totals.vercel.app/blog/html-input)
 <!-- end-blog-posts -->
 
 <h2 align='center'>💼 Repo</h2>
