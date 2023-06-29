@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ github.token }}
-      GH_REPOSITORY: ${{ env.GH_REPOSITORY }}
+      GH_REPOSITORY: ${{ secrets.GH_REPOSITORY }}
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-node@v3
