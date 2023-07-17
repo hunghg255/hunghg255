@@ -230,7 +230,7 @@
        <th>
         <a href="https://www.npmjs.com/package/csvg-to-font" target="_blank">NPM</a>
       </th>
-      <th>Script Convert Svg to font</th>
+      <th>Package Convert Svg to font</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
