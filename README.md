@@ -51,7 +51,6 @@
 
 </div> -->
 
-
 <h2 align='center'> 📈 Github Stars</h2>
 
 <p align="center">
@@ -72,7 +71,7 @@
 - [Html input](https://web-totals.vercel.app/blog/html-input)
 <!-- end-blog-posts -->
 
-<h2 align='center'>💼 Repo</h2>
+<h2 align='center'>💼 Node Script</h2>
 
 <table>
   <thead align="center">
@@ -86,7 +85,7 @@
     </tr>
   </thead>
   <tbody align="left">
-    <tr>
+     <tr>
       <th>
         create-template-fe
       </th>
@@ -96,7 +95,7 @@
        <th>
         <a href="https://www.npmjs.com/package/create-template-fe" target="_blank">NPM</a>
       </th>
-      <th>Create template frontend</th>
+      <th>Create template frontend, tools,...</th>
       <th>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
       </th>
@@ -105,6 +104,100 @@
         <img src="https://img.shields.io/github/stars/hunghg255/create-template-fe?style=flat-square" alt="badge">
       </th>
     </tr>
+    <tr>
+      <th>
+        unprompts
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/unprompts" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/unprompts" target="_blank">NPM</a>
+      </th>
+      <th>A package help create CLI tool with nodejs</th>
+      <th>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/unprompts" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/unprompts?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    <tr>
+      <th>
+        ctun
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/ctun" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/ctun" target="_blank">NPM</a>
+      </th>
+      <th>A script create tunnel use trycloudflare</th>
+      <th>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/ctun" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/ctun?style=flat-square" alt="badge">
+      </th>
+    </tr>
+     <tr>
+      <th>
+        verify-commit-msg
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/verify-commit-msg" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/verify-commit-msg" target="_blank">NPM</a>
+      </th>
+      <th>A script helps verify commit follow by convention commit</th>
+      <th>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/verify-commit-msg" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/verify-commit-msg?style=flat-square" alt="badge">
+      </th>
+    </tr>
+    </tr>
+     <tr>
+      <th>
+        changeloggithub
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/changeloggithub" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/changeloggithub" target="_blank">NPM</a>
+      </th>
+      <th>A script create changelog follow by convention commit</th>
+      <th>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/changeloggithub" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/changeloggithub?style=flat-square" alt="badge">
+      </th>
+    </tr>
+   </tbody>
+</table>
+
+<h2 align='center'>💼 Packages</h2>
+
+<table>
+  <thead align="center">
+    <tr>
+      <th>Name</th>
+      <th>Github</th>
+      <th>Npm</th>
+      <th>Summary</th>
+      <th>Technology</th>
+      <th>Achievement</th>
+    </tr>
+  </thead>
+  <tbody align="left">
     <tr>
       <th>
         toastjs-tiny
