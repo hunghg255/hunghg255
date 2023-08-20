@@ -1,4 +1,4 @@
-[![Matrix SVG](https://github.com/hunghg255/hunghg255/blob/master/img/matrix.svg)](https://hung.thedev.id)
+<!-- [![Matrix SVG](https://github.com/hunghg255/hunghg255/blob/master/img/matrix.svg)](https://hung.thedev.id) -->
 <!-- [![unicorncode_bzb8ey](https://res.cloudinary.com/hunghg255/image/upload/v1647578947/unicorncode_bzb8ey.svg)](https://hung.thedev.id) -->
 <!-- # 👀 Hi stranger! 👋🏻 -->
 
