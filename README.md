@@ -181,6 +181,26 @@
         <img src="https://img.shields.io/github/stars/hunghg255/changeloggithub?style=flat-square" alt="badge">
       </th>
     </tr>
+   </tr>
+     <tr>
+      <th>
+        git-scm-hooks
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/git-scm-hooks" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/git-scm-hooks" target="_blank">NPM</a>
+      </th>
+      <th>Config git hooks</th>
+      <th>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/git-scm-hooks" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/git-scm-hooks?style=flat-square" alt="badge">
+      </th>
+    </tr>
    </tbody>
 </table>
 
