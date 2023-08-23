@@ -155,6 +155,7 @@
       <th>A script helps verify commit follow by convention commit</th>
       <th>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+          <img src="https://img.shields.io/badge/Git-f14e32?style=flat-square&amp;logo=git&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/verify-commit-msg" alt="badge">
@@ -175,6 +176,7 @@
       <th>A script create changelog follow by convention commit</th>
       <th>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+          <img src="https://img.shields.io/badge/Git-f14e32?style=flat-square&amp;logo=git&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/changeloggithub" alt="badge">
@@ -195,6 +197,7 @@
       <th>Config git hooks</th>
       <th>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+          <img src="https://img.shields.io/badge/Git-f14e32?style=flat-square&amp;logo=git&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/git-scm-hooks" alt="badge">
