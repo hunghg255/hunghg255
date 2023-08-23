@@ -104,7 +104,7 @@
         <img src="https://img.shields.io/github/stars/hunghg255/create-template-fe?style=flat-square" alt="badge">
       </th>
     </tr>
-    <tr>
+<!--     <tr>
       <th>
         unprompts
       </th>
@@ -122,7 +122,7 @@
         <img src="https://img.shields.io/npm/dm/unprompts" alt="badge">
         <img src="https://img.shields.io/github/stars/hunghg255/unprompts?style=flat-square" alt="badge">
       </th>
-    </tr>
+    </tr> -->
     <tr>
       <th>
         ctun
