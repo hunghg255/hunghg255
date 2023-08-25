@@ -357,7 +357,7 @@
         <img src="https://img.shields.io/github/stars/hunghg255/svg-to-font?style=flat-square" alt="badge">
       </th>
     </tr>
-    <tr>
+<!--     <tr>
       <th>
         agile-css
       </th>
@@ -375,7 +375,7 @@
         <img src="https://img.shields.io/npm/dm/agile-css" alt="badge">
         <img src="https://img.shields.io/github/stars/hunghg255/agile-css?style=flat-square" alt="badge">
       </th>
-    </tr>
+    </tr> -->
      <tr>
       <th>
         react-gh-corners
@@ -573,7 +573,7 @@
        <img src="https://img.shields.io/github/stars/hunghg255/agile-css-suggestion?style=flat-square" alt="badge">
       </th>
     </tr>
-    <tr>
+<!--     <tr>
       <th>
         Agile CSS Autocomplete
       </th>
@@ -590,7 +590,7 @@
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/agile-css-extensions?style=flat-square" alt="badge">
       </th>
-    </tr>
+    </tr> -->
     <tr>
       <th>
         CSS To TailwindCSS
