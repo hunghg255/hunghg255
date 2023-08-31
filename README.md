@@ -559,6 +559,27 @@
         <img src="https://img.shields.io/github/stars/hunghg255/quill-resize-image?style=flat-square" alt="badge">
       </th>
     </tr>
+  <tr>
+      <th>
+        uninspect
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/uninspect" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/uninspect" target="_blank">NPM</a>
+      </th>
+      <th>Detect F12</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Next.js-20232A?style=flat-square&amp;logo=next.js&amp;logoColor=FFF" alt="badge">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/uninspect" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/uninspect?style=flat-square" alt="badge">
+      </th>
+    </tr>
    </tbody>
 </table>
 
