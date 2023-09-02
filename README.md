@@ -273,7 +273,7 @@
         <a href="https://github.com/hunghg255/unreadconfig" target="_blank">Github</a>
       </th>
        <th>
-        <a href="https://www.npmjs.com/package/@hunghg255/unreadconfig" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/unreadconfig" target="_blank">NPM</a>
       </th>
       <th>Read file config</th>
       <th>
