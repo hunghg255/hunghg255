@@ -51,15 +51,14 @@
 
 </div> -->
 
-<h2 align='center'> 📈 Github Stars</h2>
-
 <p align="center">
+  <kbd>
   <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
   <img src="https://shields.io/github/stars/hunghg255">
   <img src="https://img.shields.io/github/followers/hunghg255">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=c80000">
+  </kbd>
 </p>
-
 
 <h2 align='center'>📖 Latest blog posts</h2>
 
