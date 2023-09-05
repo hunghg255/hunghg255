@@ -63,11 +63,12 @@
 <h2 align='center'>📖 Latest blog posts</h2>
 
 <!-- start-blog-posts -->
-- [Build tools frontend 2023](https://web-totals.vercel.app/blog/build-tools-frontend-2023)
-- [Center css](https://web-totals.vercel.app/blog/center-css)
-- [Convert svgs to jsx](https://web-totals.vercel.app/blog/convert-svgs-to-jsx)
-- [Handle form antd part 1](https://web-totals.vercel.app/blog/handle-form-antd-part-1)
-- [Html input](https://web-totals.vercel.app/blog/html-input)
+- [Example Callstack And Event loop](https://web-totals.vercel.app/blog/event-loop-call-stack-example) - `Tue, 05 Sep 2023 04:54:37 GMT`
+- [The Most Popular Build Tools for Front-end Developers in 2023](https://web-totals.vercel.app/blog/build-tools-frontend-2023) - `Tue, 20 Jun 2023 03:18:57 GMT`
+- [Centering in CSS](https://web-totals.vercel.app/blog/center-css) - `Tue, 20 Jun 2023 03:18:57 GMT`
+- [Convert svgs file to jsx by one script](https://web-totals.vercel.app/blog/convert-svgs-to-jsx) - `Tue, 20 Jun 2023 03:18:57 GMT`
+- [Xử lý form với Ant Design (Phần 1)](https://web-totals.vercel.app/blog/handle-form-antd-part-1) - `Tue, 20 Jun 2023 03:18:57 GMT`
+- [HTML Input Type](https://web-totals.vercel.app/blog/html-input) - `Tue, 20 Jun 2023 03:18:57 GMT`
 <!-- end-blog-posts -->
 
 <h2 align='center'>💼 Script - Node</h2>
