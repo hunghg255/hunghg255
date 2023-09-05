@@ -609,7 +609,7 @@
     <tr>
       <th>Name</th>
       <th>Github</th>
-      <th>Marketplace</th>
+      <th>Marketplace Link</th>
       <th>Summary</th>
       <th>Technology</th>
       <th>Achievement</th>
@@ -681,8 +681,8 @@
     <tr>
       <th>Name</th>
       <th>Application</th>
-      <th>Invite</th>
-      <th>Commands</th>
+      <th>Invite Link</th>
+      <th>Commands Docs</th>
       <th>Technology</th>
     </tr>
   </thead>
