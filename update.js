@@ -27,16 +27,17 @@ const uppercaseFirstLetter = (string) => {
       )
     ).data;
 
-    const xml = (await axios.get('https://web-totals.vercel.app/sitemap.xml')).data;
+    const xml = (await axios.get('https://web-totals.vercel.app/blog/rss.xml')).data;
     const result1 = JSON.parse(
       convert.xml2json(xml, { compact: true }),
-    )
-    const blogs = result1.urlset.url.filter((item) => item.loc._text.includes('/blog') && !item.loc._text.includes('/tags')).slice(2).slice(0, 5);
+    );
+
+    const blogs = result1.rss.channel.item.slice(0, 6);
 
     const formattedPosts = blogs
       .map((post) => {
-        const title = post.loc._text.split('/').slice(-1)[0].replace(/-/g, ' ');
-        return `- [${uppercaseFirstLetter(title)}](${post.loc._text})`;
+        const title = post.title._cdata;
+        return `- [${uppercaseFirstLetter(title)}](${post.link._text}) - \`${post.pubDate._text}\``;
       })
       .join("\n");
 
