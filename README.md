@@ -682,6 +682,7 @@
     <tr>
       <th>Name</th>
       <th>Github</th>
+      <th>Marketplace</th>
       <th>Summary</th>
       <th>Technology</th>
       <th>Achievement</th>
@@ -694,6 +695,9 @@
       </th>
       <th>
         <a href="https://github.com/hunghg255/action-notifications" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://github.com/marketplace/actions/github-action-notification" target="_blank">Marketplace</a>
       </th>
       <th>Notification to Discord, Slack, Telegram</th>
       <th>
