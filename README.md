@@ -675,6 +675,37 @@
    </tbody>
 </table>
 
+<h2 align='center'>💼 Github Actions</h2>
+
+<table>
+  <thead align="center">
+    <tr>
+      <th>Name</th>
+      <th>Github</th>
+      <th>Summary</th>
+      <th>Technology</th>
+      <th>Achievement</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <th>
+        action-notifications
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/action-notifications" target="_blank">Github</a>
+      </th>
+      <th>Notification to Discord, Slack</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+       <img src="https://img.shields.io/github/stars/hunghg255/action-notifications?style=flat-square" alt="badge">
+      </th>
+    </tr>
+   </tbody>
+</table>
+
 <h2 align='center'>💼 Bots</h2>
 
 <table>
