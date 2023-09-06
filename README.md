@@ -695,7 +695,7 @@
       <th>
         <a href="https://github.com/hunghg255/action-notifications" target="_blank">Github</a>
       </th>
-      <th>Notification to Discord, Slack</th>
+      <th>Notification to Discord, Slack, Telegram</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
       </th>
