@@ -600,6 +600,25 @@
         <img src="https://img.shields.io/github/stars/hunghg255/uninspect?style=flat-square" alt="badge">
       </th>
     </tr>
+  <tr>
+      <th>
+        uncolur
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/uncolur" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/uncolur" target="_blank">NPM</a>
+      </th>
+      <th>Color Pallete</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/uncolur" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/uncolur?style=flat-square" alt="badge">
+      </th>
+    </tr>
    </tbody>
 </table>
 
