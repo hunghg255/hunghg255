@@ -619,6 +619,42 @@
         <img src="https://img.shields.io/github/stars/hunghg255/uncolur?style=flat-square" alt="badge">
       </th>
     </tr>
+    <th>
+        sveltejs-jotai
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/sveltejs-jotai" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/sveltejs-jotai" target="_blank">NPM</a>
+      </th>
+      <th>Svelte Jotai State Management</th>
+      <th>
+        <img src="https://img.shields.io/badge/Svelte-d81e18?style=flat-square&amp;logo=svelte&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/sveltejs-jotai" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/sveltejs-jotai?style=flat-square" alt="badge">
+      </th>
+    </tr>
+   <th>
+        sveltejs-valtio
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/sveltejs-valtio" target="_blank">Github</a>
+      </th>
+       <th>
+        <a href="https://www.npmjs.com/package/sveltejs-valtio" target="_blank">NPM</a>
+      </th>
+      <th>Svelte Valtio State Management</th>
+      <th>
+        <img src="https://img.shields.io/badge/Svelte-d81e18?style=flat-square&amp;logo=svelte&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/sveltejs-valtio" alt="badge">
+        <img src="https://img.shields.io/github/stars/hunghg255/sveltejs-valtio?style=flat-square" alt="badge">
+      </th>
+    </tr>
    </tbody>
 </table>
 
