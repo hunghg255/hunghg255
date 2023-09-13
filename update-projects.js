@@ -52,7 +52,7 @@ const GIST = `https://gist.githubusercontent.com/hunghg255/ee79b03819fd5f9a2a92c
         <a href="${project.Github}" target="_blank">Github</a>
       </th>
       <th>
-        <a href="${project.Npm}" target="_blank">NPM</a>
+        <a href="${project.Npm || project.Marketplace}" target="_blank">${project.Npm ? "NPM" : "Marketplace"}</a>
       </th>
       <th>${project.Summary}</th>
       <th>
