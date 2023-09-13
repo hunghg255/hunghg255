@@ -1,4 +1,4 @@
-name: Update Blog
+name: Update Blog - Projects
 
 on:
   schedule:
@@ -19,3 +19,5 @@ jobs:
         node-version: 18
     - run: npm install
     - run: node update.js
+    - run: node update-projects.js
+
