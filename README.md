@@ -262,7 +262,7 @@
 <img src="https://img.shields.io/badge/Nodejs-233056?style=flat-square&amp;logo=node.js&amp;logoColor=84ba64" alt="badge">
       </th>
       <th>
-        <img src="ttps://img.shields.io/npm/dm/@hunghg255/unreadconfig" alt="badge">
+        <img src="https://img.shields.io/npm/dm/@hunghg255/unreadconfig" alt="badge">
 <img src="https://img.shields.io/github/stars/hunghg255/unreadconfig?style=flat-square" alt="badge">
       </th>
     </tr>
@@ -378,26 +378,6 @@
       <th>
         <img src="https://img.shields.io/npm/dm/fast-react-context" alt="badge">
 <img src="https://img.shields.io/github/stars/hunghg255/fast-react-context?style=flat-square" alt="badge">
-      </th>
-    </tr>
-<tr>
-      <th>
-        svg-to-jsx
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/svg-to-jsx" target="_blank">Github</a>
-      </th>
-      <th>
-        <a href="https://www.npmjs.com/package/agile-svg2jsx" target="_blank">NPM</a>
-      </th>
-      <th>Script Convert Svg to Component</th>
-      <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/npm/dm/agile-svg2jsx" alt="badge">
-<img src="https://img.shields.io/github/stars/hunghg255/svg-to-jsx?style=flat-square" alt="badge">
       </th>
     </tr>
 <tr>
@@ -646,7 +626,7 @@
         <a href="https://github.com/hunghg255/agile-css-suggestion" target="_blank">Github</a>
       </th>
       <th>
-        <a href="undefined" target="_blank">NPM</a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=AgileCssSuggestion.agile-css-suggestion" target="_blank">Marketplace</a>
       </th>
       <th>Suggest Classname CSS</th>
       <th>
@@ -664,7 +644,7 @@
         <a href="https://github.com/hunghg255/css-to-tailwindcss-extension" target="_blank">Github</a>
       </th>
       <th>
-        <a href="undefined" target="_blank">NPM</a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=hunghg255.css-2-tailwindcss" target="_blank">Marketplace</a>
       </th>
       <th>Convert CSS To TailwindCSS</th>
       <th>
@@ -700,7 +680,7 @@
         <a href="https://github.com/hunghg255/action-notifications" target="_blank">Github</a>
       </th>
       <th>
-        <a href="undefined" target="_blank">NPM</a>
+        <a href="https://github.com/marketplace/actions/github-action-notification" target="_blank">Marketplace</a>
       </th>
       <th>Action Notification to Discord, Slack, Telegram</th>
       <th>
