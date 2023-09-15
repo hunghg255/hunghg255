@@ -638,7 +638,7 @@
     </tr>
 <tr>
       <th>
-        CSS To TailwindCSSn
+        CSS To TailwindCSS
       </th>
       <th>
         <a href="https://github.com/hunghg255/css-to-tailwindcss-extension" target="_blank">Github</a>
