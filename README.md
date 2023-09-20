@@ -600,6 +600,25 @@
 <img src="https://img.shields.io/github/stars/hunghg255/sveltejs-valtio?style=flat-square" alt="badge">
       </th>
     </tr>
+<tr>
+      <th>
+        uncookie
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/uncookie" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/uncookie" target="_blank">NPM</a>
+      </th>
+      <th>Javascript cookie</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/uncookie" alt="badge">
+<img src="https://img.shields.io/github/stars/hunghg255/uncookie?style=flat-square" alt="badge">
+      </th>
+    </tr>
   </tbody>
 </table>
       
