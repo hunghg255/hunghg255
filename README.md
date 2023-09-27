@@ -701,7 +701,7 @@
       <th>
         <a href="https://github.com/marketplace/actions/github-action-notification" target="_blank">Marketplace</a>
       </th>
-      <th>Action Notification to Discord, Slack, Telegram</th>
+      <th>Action Notification to Discord, Slack, Telegram, Google Chat, Microsoft Teams</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
       </th>
