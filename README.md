@@ -146,6 +146,25 @@
     </tr>
 <tr>
       <th>
+        bumpp-version
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/bumpp-version" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/bumpp-version" target="_blank">NPM</a>
+      </th>
+      <th>A script, package bump version</th>
+      <th>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/bumpp-version" alt="badge">
+<img src="https://img.shields.io/github/stars/hunghg255/bumpp-version?style=flat-square" alt="badge">
+      </th>
+    </tr>
+<tr>
+      <th>
         ctun
       </th>
       <th>
