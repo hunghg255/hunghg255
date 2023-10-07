@@ -74,6 +74,43 @@
 
 <!-- start-projects -->
 
+<h2 align='center'>Vite Plugin</h2>
+
+<table>
+  <thead align="center">
+    <tr>
+      <th>Name</th>
+<th>Github</th>
+<th>Npm</th>
+<th>Summary</th>
+<th>Technology</th>
+<th>Achievement</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+  <tr>
+      <th>
+        vite-host-qrcode
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/vite-host-qrcode" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/vite-host-qrcode" target="_blank">NPM</a>
+      </th>
+      <th>Show host with qrcode</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/vite-host-qrcode" alt="badge">
+<img src="https://img.shields.io/github/stars/hunghg255/vite-host-qrcode?style=flat-square" alt="badge">
+      </th>
+    </tr>
+  </tbody>
+</table>
+      
+
 <h2 align='center'>💼 Node - Script</h2>
 
 <table>
