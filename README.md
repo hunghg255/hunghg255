@@ -6,6 +6,7 @@
 
 <p align="center">
   <samp>
+    <p>learning</p> .
     <a href="https://hung.thedev.id">me</a> .
     <a href="https://web-totals.vercel.app/blog">blog</a> .
     <a href="https://hunghg-resume.vercel.app/">resume</a> .
