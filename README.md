@@ -2,7 +2,7 @@
 <!-- [![unicorncode_bzb8ey](https://res.cloudinary.com/hunghg255/image/upload/v1647578947/unicorncode_bzb8ey.svg)](https://hung.thedev.id) -->
 <!-- # 👀 Hi stranger! 👋🏻 -->
 
-<h1 align='center'>Hi there, I'm Hung 👋✌🏻</h1>
+<!-- <h1 align='center'>Hi there, I'm Hung 👋✌🏻</h1>  -->
 
 <p align="center">
   <samp>
@@ -52,14 +52,14 @@
 
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <kbd>
   <img src="https://komarev.com/ghpvc/?username=hunghg255&style=flat" alt="hunghg255" />
   <img src="https://shields.io/github/stars/hunghg255">
   <img src="https://img.shields.io/github/followers/hunghg255">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=c80000">
   </kbd>
-</p>
+</p> -->
 
 <h2 align='center'>💖 Sponsor</h2>
 
