@@ -65,10 +65,10 @@
 <!-- start-blog-posts -->
 - [React Provider Hell](https://web-totals.vercel.app/blog/react-provider-hell) - `Tue, 19 Sep 2023 19:28:57 GMT`
 - [Example Callstack And Event loop](https://web-totals.vercel.app/blog/event-loop-call-stack-example) - `Tue, 05 Sep 2023 04:54:37 GMT`
-- [The Most Popular Build Tools for Front-end Developers in 2023](https://web-totals.vercel.app/blog/build-tools-frontend-2023) - `Wed, 12 Jul 2023 05:32:38 GMT`
-- [Centering in CSS](https://web-totals.vercel.app/blog/center-css) - `Wed, 12 Jul 2023 05:32:38 GMT`
-- [Convert svgs file to jsx by one script](https://web-totals.vercel.app/blog/convert-svgs-to-jsx) - `Wed, 12 Jul 2023 05:32:38 GMT`
-- [Xử lý form với Ant Design (Phần 1)](https://web-totals.vercel.app/blog/handle-form-antd-part-1) - `Wed, 12 Jul 2023 05:32:38 GMT`
+- [The Most Popular Build Tools for Front-end Developers in 2023](https://web-totals.vercel.app/blog/build-tools-frontend-2023) - `Sun, 30 Jul 2023 10:32:05 GMT`
+- [Centering in CSS](https://web-totals.vercel.app/blog/center-css) - `Sun, 30 Jul 2023 10:32:05 GMT`
+- [Convert svgs file to jsx by one script](https://web-totals.vercel.app/blog/convert-svgs-to-jsx) - `Sun, 30 Jul 2023 10:32:05 GMT`
+- [Xử lý form với Ant Design (Phần 1)](https://web-totals.vercel.app/blog/handle-form-antd-part-1) - `Sun, 30 Jul 2023 10:32:05 GMT`
 <!-- end-blog-posts -->
 
 
