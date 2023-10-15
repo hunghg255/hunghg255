@@ -12,9 +12,9 @@
     <a href="https://hunghg-resume.vercel.app/">resume</a> .
     <a href="https://hung.thedev.id/projects">projects</a> .
     <a href="https://twitter.com/hunghg255">tweets</a> .
-    <a href="https://www.instagram.com/hello_silver_miu/">instagram</a> .
-    <a href="https://www.linkedin.com/in/hoanggiahung/">linkedin</a> .
-    <a href="https://hunghg-contact.vercel.app/">contacts</a> .
+    <a href="https://hunghg-contact.vercel.app/">contacts</a>
+    <br />
+    <a href="mailto:giahung197bg@gmail.com">mail</a> .
     <a href="https://gist.github.com/hunghg255">gist</a> .
     <a href="https://github.com/hunghg255/use">use</a>
   </samp>
