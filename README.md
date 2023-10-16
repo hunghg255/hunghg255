@@ -778,6 +778,24 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         <img src="https://img.shields.io/github/stars/hunghg255/action-notifications?style=flat-square" alt="badge">
       </th>
     </tr>
+<tr>
+      <th>
+        action-preview-site
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/surge-preview" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/surge-preview" target="_blank">Marketplace</a>
+      </th>
+      <th>Action deploy static site to surge</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/surge-preview?style=flat-square" alt="badge">
+      </th>
+    </tr>
   </tbody>
 </table>
       
