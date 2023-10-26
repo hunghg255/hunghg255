@@ -120,6 +120,25 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <img src="https://img.shields.io/github/stars/hunghg255/vite-host-qrcode?style=flat-square" alt="badge">
       </th>
     </tr>
+<tr>
+      <th>
+        vite-plugin-resize-image
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/vite-plugin-resize-image" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/vite-plugin-resize-image" target="_blank">NPM</a>
+      </th>
+      <th>Vite plugin resize image</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/vite-plugin-resize-image" alt="badge">
+<img src="https://img.shields.io/github/stars/hunghg255/vite-plugin-resize-image?style=flat-square" alt="badge">
+      </th>
+    </tr>
   </tbody>
 </table>
       
@@ -794,6 +813,42 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/surge-preview?style=flat-square" alt="badge">
+      </th>
+    </tr>
+  </tbody>
+</table>
+      
+
+<h2 align='center'>💼 Devtools</h2>
+
+<table>
+  <thead align="center">
+    <tr>
+      <th>Name</th>
+<th>Github</th>
+<th>Marketplace</th>
+<th>Summary</th>
+<th>Technology</th>
+<th>Achievement</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+  <tr>
+      <th>
+        rc-form-devtools
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/rc-form-devtools" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://github.com/marketplace/actions/github-action-notification" target="_blank">Marketplace</a>
+      </th>
+      <th>Devtools debug for rc-field-form</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/rc-form-devtools?style=flat-square" alt="badge">
       </th>
     </tr>
   </tbody>
