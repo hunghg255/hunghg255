@@ -826,7 +826,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     <tr>
       <th>Name</th>
 <th>Github</th>
-<th>Marketplace</th>
+<th>Npm</th>
 <th>Summary</th>
 <th>Technology</th>
 <th>Achievement</th>
@@ -841,7 +841,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         <a href="https://github.com/hunghg255/rc-form-devtools" target="_blank">Github</a>
       </th>
       <th>
-        <a href="https://github.com/marketplace/actions/github-action-notification" target="_blank">Marketplace</a>
+        <a href="https://www.npmjs.com/package/rc-form-devtools" target="_blank">NPM</a>
       </th>
       <th>Devtools debug for rc-field-form</th>
       <th>
