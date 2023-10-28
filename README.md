@@ -707,6 +707,25 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <img src="https://img.shields.io/github/stars/hunghg255/uncookie?style=flat-square" alt="badge">
       </th>
     </tr>
+<tr>
+      <th>
+        dom-to-images
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/dom-to-images" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/dom-to-images" target="_blank">NPM</a>
+      </th>
+      <th>Convert html to image</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/dom-to-images" alt="badge">
+<img src="https://img.shields.io/github/stars/hunghg255/dom-to-images?style=flat-square" alt="badge">
+      </th>
+    </tr>
   </tbody>
 </table>
       
