@@ -113,7 +113,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
       </th>
       <th>Show host with qrcode</th>
       <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Vite-ab4bfe?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/vite-host-qrcode" alt="badge">
@@ -132,7 +132,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
       </th>
       <th>Vite plugin resize image</th>
       <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+         <img src="https://img.shields.io/badge/Vite-ab4bfe?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/vite-plugin-resize-image" alt="badge">
@@ -151,7 +151,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
       </th>
       <th>Vite plugin minify css module class name</th>
       <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+       <img src="https://img.shields.io/badge/Vite-ab4bfe?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/vite-minify-css-module" alt="badge">
@@ -170,7 +170,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
       </th>
       <th>Vite plugin console debug</th>
       <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Vite-ab4bfe?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/vite-console-debug" alt="badge">
