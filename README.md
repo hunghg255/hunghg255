@@ -139,6 +139,44 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <img src="https://img.shields.io/github/stars/hunghg255/vite-plugin-resize-image?style=flat-square" alt="badge">
       </th>
     </tr>
+<tr>
+      <th>
+        vite-minify-css-module
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/vite-minify-css-module" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/vite-minify-css-module" target="_blank">NPM</a>
+      </th>
+      <th>Vite plugin minify css module class name</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/vite-minify-css-module" alt="badge">
+<img src="https://img.shields.io/github/stars/hunghg255/vite-minify-css-module?style=flat-square" alt="badge">
+      </th>
+    </tr>
+<tr>
+      <th>
+        vite-console-debug
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/vite-console-debug" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/vite-console-debug" target="_blank">NPM</a>
+      </th>
+      <th>Vite plugin console debug</th>
+      <th>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/vite-console-debug" alt="badge">
+<img src="https://img.shields.io/github/stars/hunghg255/vite-console-debug?style=flat-square" alt="badge">
+      </th>
+    </tr>
   </tbody>
 </table>
       
