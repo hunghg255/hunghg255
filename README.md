@@ -132,7 +132,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
       </th>
       <th>Vite plugin resize image</th>
       <th>
-         <img src="https://img.shields.io/badge/Vite-ab4bfe?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Vite-ab4bfe?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/vite-plugin-resize-image" alt="badge">
@@ -151,7 +151,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
       </th>
       <th>Vite plugin minify css module class name</th>
       <th>
-       <img src="https://img.shields.io/badge/Vite-ab4bfe?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Vite-ab4bfe?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/vite-minify-css-module" alt="badge">
