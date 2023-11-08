@@ -113,7 +113,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
       </th>
       <th>Print text, show host with qrcode</th>
       <th>
-        <img src="https://img.shields.io/badge/Rsbuild-ab4bfe?style=flat-square&amp;logo=rsbuild&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/Rsbuild-e4c0a2?style=flat-square&amp;logo=rsbuild&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/npm/dm/rsbuild-plugin-print" alt="badge">
