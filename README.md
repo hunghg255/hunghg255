@@ -87,6 +87,43 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 
 <!-- start-projects -->
 
+<h2 align='center'>Rsbuild Plugin</h2>
+
+<table>
+  <thead align="center">
+    <tr>
+      <th>Name</th>
+<th>Github</th>
+<th>Npm</th>
+<th>Summary</th>
+<th>Technology</th>
+<th>Achievement</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+  <tr>
+      <th>
+        rsbuild-plugin-print
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/rsbuild-plugin-print" target="_blank">Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/rsbuild-plugin-print" target="_blank">NPM</a>
+      </th>
+      <th>Print text, show host with qrcode</th>
+      <th>
+        <img src="https://img.shields.io/badge/Rsbuild-ab4bfe?style=flat-square&amp;logo=rsbuild&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/dm/rsbuild-plugin-print" alt="badge">
+<img src="https://img.shields.io/github/stars/hunghg255/rsbuild-plugin-print?style=flat-square" alt="badge">
+      </th>
+    </tr>
+  </tbody>
+</table>
+      
+
 <h2 align='center'>Vite Plugin</h2>
 
 <table>
