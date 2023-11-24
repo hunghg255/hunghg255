@@ -9,11 +9,12 @@ const GIST = `https://gist.githubusercontent.com/hunghg255/ee79b03819fd5f9a2a92c
 const locale = {
   handbook: 'Handbook',
   github: 'Github',
-  npm: 'NPM',
+  npm: 'Npm',
   star: 'Stars',
   last_commit: 'Last Commit',
   download: 'Download',
   version: 'Version',
+  marketplace: 'Marketplace',
 };
 
 (async () => {
