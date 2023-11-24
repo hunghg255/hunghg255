@@ -46,28 +46,25 @@ const GIST = `https://gist.githubusercontent.com/hunghg255/ee79b03819fd5f9a2a92c
   ${projects.map((project) => {
     return `<tr>
       <th>
-        ${project.Name}
+        ${project.handbook}
       </th>
       <th>
-        <a href="${project.Github}" target="_blank">Github</a>
+        <a href="${project.github}" target="_blank">Github</a>
       </th>
       <th>
-        <a href="${project.Npm || project.Marketplace}" target="_blank">${project.Npm ? "NPM" : "Marketplace"}</a>
-      </th>
-      <th>${project.Summary}</th>
-      <th>
-        ${
-          project.Technology.map((tech) => {
-            return `<img src="${tech}" alt="badge">`
-          }).join("\n")
-        }
+        <a href="${project.npm || project.marketplace}" target="_blank">${project.npm ? "NPM" : "Marketplace"}</a>
       </th>
       <th>
-        ${
-          project.Achievement.map((achievement) => {
-            return `<img src="${achievement}" alt="badge">`
-          }).join("\n")
-        }
+        <img src="${project.star}" alt="" />
+      </th>
+      <th>
+        <img src="${project.last_commit}" alt="" />
+      </th>
+      <th>
+        <img src="${project.download}" alt="" />
+      </th>
+      <th>
+        <img src="${project.version}" alt="" />
       </th>
     </tr>`;
   }).join("\n")}
