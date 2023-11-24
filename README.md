@@ -40,7 +40,6 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <h2 align='center'>📖 Latest blog posts</h2>
 
 <!-- start-blog-posts -->
-
 - [React Provider Hell](https://web-totals.vercel.app/blog/react-provider-hell) - `Tue, 19 Sep 2023 19:28:57 GMT`
 - [Example Callstack And Event loop](https://web-totals.vercel.app/blog/event-loop-call-stack-example) - `Tue, 05 Sep 2023 04:54:37 GMT`
 - [Centering in CSS](https://web-totals.vercel.app/blog/center-css) - `Fri, 12 May 2023 04:20:35 GMT`
