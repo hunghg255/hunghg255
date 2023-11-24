@@ -60,13 +60,13 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <table>
   <thead align="center">
     <tr>
-      <th>handbook</th>
-<th>github</th>
-<th>npm</th>
-<th>star</th>
-<th>last_commit</th>
-<th>download</th>
-<th>version</th>
+      <th>Handbook</th>
+<th>Github</th>
+<th>NPM</th>
+<th>Stars</th>
+<th>Last Commit</th>
+<th>Download</th>
+<th>Version</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -75,10 +75,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         rsbuild-plugin-print
       </th>
       <th>
-        <a href="https://github.com/hunghg255/rsbuild-plugin-print" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/rsbuild-plugin-print" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/rsbuild-plugin-print" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/rsbuild-plugin-print" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/rsbuild-plugin-print?style=flat" alt="" />
@@ -98,10 +98,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         rsbuild-plugin-console-debug
       </th>
       <th>
-        <a href="https://github.com/hunghg255/rsbuild-plugin-console-debug" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/rsbuild-plugin-console-debug" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/rsbuild-plugin-console-debug" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/rsbuild-plugin-console-debug" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/rsbuild-plugin-console-debug?style=flat" alt="" />
@@ -125,13 +125,13 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <table>
   <thead align="center">
     <tr>
-      <th>handbook</th>
-<th>github</th>
-<th>npm</th>
-<th>star</th>
-<th>last_commit</th>
-<th>download</th>
-<th>version</th>
+      <th>Handbook</th>
+<th>Github</th>
+<th>NPM</th>
+<th>Stars</th>
+<th>Last Commit</th>
+<th>Download</th>
+<th>Version</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -140,10 +140,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         vite-host-qrcode
       </th>
       <th>
-        <a href="https://github.com/hunghg255/vite-host-qrcode" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/vite-host-qrcode" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/vite-host-qrcode" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/vite-host-qrcode" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/vite-host-qrcode?style=flat" alt="" />
@@ -163,10 +163,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         vite-plugin-resize-image
       </th>
       <th>
-        <a href="https://github.com/hunghg255/vite-plugin-resize-image" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/vite-plugin-resize-image" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/vite-plugin-resize-image" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/vite-plugin-resize-image" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/vite-plugin-resize-image?style=flat" alt="" />
@@ -186,10 +186,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         vite-minify-css-module
       </th>
       <th>
-        <a href="https://github.com/hunghg255/vite-minify-css-module" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/vite-minify-css-module" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/vite-minify-css-module" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/vite-minify-css-module" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/vite-minify-css-module?style=flat" alt="" />
@@ -209,10 +209,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         vite-console-debug
       </th>
       <th>
-        <a href="https://github.com/hunghg255/vite-console-debug" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/vite-console-debug" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/vite-console-debug" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/vite-console-debug" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/vite-console-debug?style=flat" alt="" />
@@ -236,13 +236,13 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <table>
   <thead align="center">
     <tr>
-      <th>handbook</th>
-<th>github</th>
-<th>npm</th>
-<th>star</th>
-<th>last_commit</th>
-<th>download</th>
-<th>version</th>
+      <th>Handbook</th>
+<th>Github</th>
+<th>NPM</th>
+<th>Stars</th>
+<th>Last Commit</th>
+<th>Download</th>
+<th>Version</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -251,10 +251,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         create-template-fe
       </th>
       <th>
-        <a href="https://github.com/hunghg255/create-template-fe" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/create-template-fe" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/create-template-fe" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/create-template-fe" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/create-template-fe?style=flat" alt="" />
@@ -274,10 +274,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         bumpp-version
       </th>
       <th>
-        <a href="https://github.com/hunghg255/bumpp-version" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/bumpp-version" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/bumpp-version" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/bumpp-version" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/bumpp-version?style=flat" alt="" />
@@ -297,10 +297,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         ctun
       </th>
       <th>
-        <a href="https://github.com/hunghg255/ctun" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/ctun" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/ctun" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/ctun" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/ctun?style=flat" alt="" />
@@ -320,10 +320,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         verify-commit-msg
       </th>
       <th>
-        <a href="https://github.com/hunghg255/verify-commit-msg" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/verify-commit-msg" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/verify-commit-msg" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/verify-commit-msg" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/verify-commit-msg?style=flat" alt="" />
@@ -343,10 +343,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         changeloggithub
       </th>
       <th>
-        <a href="https://github.com/hunghg255/changeloggithub" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/changeloggithub" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/changeloggithub" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/changeloggithub" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/changeloggithub?style=flat" alt="" />
@@ -366,10 +366,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         git-scm-hooks
       </th>
       <th>
-        <a href="https://github.com/hunghg255/git-scm-hooks" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/git-scm-hooks" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/git-scm-hooks" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/git-scm-hooks" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/git-scm-hooks?style=flat" alt="" />
@@ -389,10 +389,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         ungradient
       </th>
       <th>
-        <a href="https://github.com/hunghg255/ungradient" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/ungradient" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/ungradient" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/ungradient" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/ungradient?style=flat" alt="" />
@@ -412,10 +412,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         csvs-parsers
       </th>
       <th>
-        <a href="https://github.com/hunghg255/csvs-parsers" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/csvs-parsers" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/csvs-parsers" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/csvs-parsers" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/csvs-parsers?style=flat" alt="" />
@@ -435,10 +435,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         music-lyrics
       </th>
       <th>
-        <a href="https://github.com/hunghg255/music-lyrics" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/music-lyrics" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/@hunghg255/music-lyrics" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/@hunghg255/music-lyrics" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/music-lyric?style=flat" alt="" />
@@ -458,10 +458,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         unreadconfig
       </th>
       <th>
-        <a href="https://github.com/hunghg255/unreadconfig" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/unreadconfig" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/unreadconfig" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/unreadconfig" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/unreadconfig?style=flat" alt="" />
@@ -481,10 +481,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         vn-qr-pay
       </th>
       <th>
-        <a href="https://github.com/hunghg255/vn-qr-pay" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/vn-qr-pay" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/vn-qr-pay" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/vn-qr-pay" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/vn-qr-pay?style=flat" alt="" />
@@ -508,13 +508,13 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <table>
   <thead align="center">
     <tr>
-      <th>handbook</th>
-<th>github</th>
-<th>npm</th>
-<th>star</th>
-<th>last_commit</th>
-<th>download</th>
-<th>version</th>
+      <th>Handbook</th>
+<th>Github</th>
+<th>NPM</th>
+<th>Stars</th>
+<th>Last Commit</th>
+<th>Download</th>
+<th>Version</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -523,10 +523,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         toastjs-tiny
       </th>
       <th>
-        <a href="https://github.com/hunghg255/toast" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/toast" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/toastjs-tiny" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/toastjs-tiny" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/toast?style=flat" alt="" />
@@ -546,10 +546,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         mega-menu-aim
       </th>
       <th>
-        <a href="https://github.com/hunghg255/mega-menu-aim" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/mega-menu-aim" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/mega-menu-aim" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/mega-menu-aim" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/mega-menu-aim?style=flat" alt="" />
@@ -569,10 +569,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         introh-js
       </th>
       <th>
-        <a href="https://github.com/hunghg255/intro-js" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/intro-js" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/introh-js" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/introh-js" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/intro-js?style=flat" alt="" />
@@ -592,10 +592,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         number-2-text-vietnamese
       </th>
       <th>
-        <a href="https://github.com/hunghg255/number-2-text-vietnamese" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/number-2-text-vietnamese" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/number-2-text-vietnamese" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/number-2-text-vietnamese" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/number-2-text-vietnamese?style=flat" alt="" />
@@ -615,10 +615,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         fast-react-context
       </th>
       <th>
-        <a href="https://github.com/hunghg255/fast-react-context" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/fast-react-context" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/fast-react-context" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/fast-react-context" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/fast-react-context?style=flat" alt="" />
@@ -638,10 +638,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         svg-to-jsx
       </th>
       <th>
-        <a href="https://github.com/hunghg255/svg-to-jsx" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/svg-to-jsx" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/agile-svg2jsx" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/agile-svg2jsx" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/svg-to-jsx?style=flat" alt="" />
@@ -661,10 +661,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         csvg-to-font
       </th>
       <th>
-        <a href="https://github.com/hunghg255/svg-to-font" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/svg-to-font" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/csvg-to-font" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/csvg-to-font" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/svg-to-font?style=flat" alt="" />
@@ -684,10 +684,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         react-gh-corners
       </th>
       <th>
-        <a href="https://github.com/hunghg255/react-github-corners" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/react-github-corners" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/react-gh-corners" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/react-gh-corners" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/react-github-corners?style=flat" alt="" />
@@ -707,10 +707,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         jotai-tiny
       </th>
       <th>
-        <a href="https://github.com/hunghg255/jotai-tiny" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/jotai-tiny" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/jotai-tiny" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/jotai-tiny" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/jotai-tiny?style=flat" alt="" />
@@ -730,10 +730,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         css2tailwind
       </th>
       <th>
-        <a href="https://github.com/hunghg255/css2tailwind" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/css2tailwind" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/css2tailwind" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/css2tailwind" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/css2tailwind?style=flat" alt="" />
@@ -753,10 +753,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         reactjs-otp-input
       </th>
       <th>
-        <a href="https://github.com/hunghg255/reactjs-otp-input" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/reactjs-otp-input" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/reactjs-otp-input" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/reactjs-otp-input" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/reactjs-otp-input?style=flat" alt="" />
@@ -776,10 +776,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         quill-resize-image
       </th>
       <th>
-        <a href="https://github.com/hunghg255/quill-resize-image" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/quill-resize-image" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/quill-resize-image" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/quill-resize-image" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/quill-resize-image?style=flat" alt="" />
@@ -799,10 +799,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         uninspect
       </th>
       <th>
-        <a href="https://github.com/hunghg255/uninspect" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/uninspect" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/uninspect" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/uninspect" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/uninspect?style=flat" alt="" />
@@ -822,10 +822,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         uncolur
       </th>
       <th>
-        <a href="https://github.com/hunghg255/uncolur" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/uncolur" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/uncolur" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/uncolur" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/uncolur?style=flat" alt="" />
@@ -845,10 +845,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         sveltejs-jotai
       </th>
       <th>
-        <a href="https://github.com/hunghg255/sveltejs-jotai" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/sveltejs-jotai" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/sveltejs-jotai" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/sveltejs-jotai" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/sveltejs-jotai?style=flat" alt="" />
@@ -868,10 +868,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         sveltejs-valtio
       </th>
       <th>
-        <a href="https://github.com/hunghg255/sveltejs-valtio" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/sveltejs-valtio" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/sveltejs-valtio" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/sveltejs-valtio" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/sveltejs-valtio?style=flat" alt="" />
@@ -891,10 +891,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         uncookie
       </th>
       <th>
-        <a href="https://github.com/hunghg255/uncookie" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/uncookie" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/uncookie" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/uncookie" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/uncookie?style=flat" alt="" />
@@ -914,10 +914,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         dom-to-images
       </th>
       <th>
-        <a href="https://github.com/hunghg255/dom-to-images" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/dom-to-images" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/dom-to-images" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/dom-to-images" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/dom-to-images?style=flat" alt="" />
@@ -937,10 +937,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         hqr
       </th>
       <th>
-        <a href="https://github.com/hunghg255/hqr" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/hqr" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/hqr" target="_blank">NPM</a>
+        <a href="https://www.npmjs.com/package/hqr" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/hqr?style=flat" alt="" />
@@ -964,13 +964,13 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <table>
   <thead align="center">
     <tr>
-      <th>handbook</th>
-<th>github</th>
-<th>marketplace</th>
-<th>star</th>
-<th>last_commit</th>
-<th>download</th>
-<th>version</th>
+      <th>Handbook</th>
+<th>Github</th>
+<th>undefined</th>
+<th>Stars</th>
+<th>Last Commit</th>
+<th>Download</th>
+<th>Version</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -979,10 +979,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         agile-css-suggestion
       </th>
       <th>
-        <a href="https://github.com/hunghg255/agile-css-suggestion" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/agile-css-suggestion" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://marketplace.visualstudio.com/items?itemName=AgileCssSuggestion.agile-css-suggestion" target="_blank">Marketplace</a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=AgileCssSuggestion.agile-css-suggestion" target="_blank">#Marketplace</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/agile-css-suggestion?style=flat" alt="" />
@@ -1002,10 +1002,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         css-to-tailwindcss-extension
       </th>
       <th>
-        <a href="https://github.com/hunghg255/css-to-tailwindcss-extension" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/css-to-tailwindcss-extension" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://marketplace.visualstudio.com/items?itemName=hunghg255.css-2-tailwindcss" target="_blank">Marketplace</a>
+        <a href="https://marketplace.visualstudio.com/items?itemName=hunghg255.css-2-tailwindcss" target="_blank">#Marketplace</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/css-to-tailwindcss-extension?style=flat" alt="" />
@@ -1029,13 +1029,13 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <table>
   <thead align="center">
     <tr>
-      <th>handbook</th>
-<th>github</th>
-<th>marketplace</th>
-<th>star</th>
-<th>last_commit</th>
-<th>download</th>
-<th>version</th>
+      <th>Handbook</th>
+<th>Github</th>
+<th>undefined</th>
+<th>Stars</th>
+<th>Last Commit</th>
+<th>Download</th>
+<th>Version</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -1044,10 +1044,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         action-notifications
       </th>
       <th>
-        <a href="https://github.com/hunghg255/action-notifications" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/action-notifications" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://github.com/marketplace/actions/github-action-notification" target="_blank">Marketplace</a>
+        <a href="https://github.com/marketplace/actions/github-action-notification" target="_blank">#Marketplace</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/action-notifications?style=flat" alt="" />
@@ -1059,7 +1059,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         <img src="https://badgen.net/npm/dm/action-notifications?label=npm&color=dd4e4c" alt="" />
       </th>
       <th>
-        <img src="https://img.shields.io/npm/v/action-notifications.svg?label=&logo=npm" alt="" />
+        <img src="https://img.shields.io/github/v/tag/hunghg255/action-notifications?style=flat&label=&labelColor=555&logo=github" alt="" />
       </th>
     </tr>
 <tr>
@@ -1067,10 +1067,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         surge-preview
       </th>
       <th>
-        <a href="https://github.com/hunghg255/surge-preview" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/surge-preview" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://github.com/hunghg255/surge-preview" target="_blank">Marketplace</a>
+        <a href="https://github.com/hunghg255/surge-preview" target="_blank">#Marketplace</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/surge-preview?style=flat" alt="" />
@@ -1082,7 +1082,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         <img src="https://badgen.net/npm/dm/surge-preview?label=npm&color=dd4e4c" alt="" />
       </th>
       <th>
-        <img src="https://img.shields.io/npm/v/surge-preview.svg?label=&logo=npm" alt="" />
+        <img src="https://img.shields.io/github/v/tag/hunghg255/surge-preview?style=flat&label=&labelColor=555&logo=github" alt="" />
       </th>
     </tr>
   </tbody>
@@ -1094,13 +1094,13 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <table>
   <thead align="center">
     <tr>
-      <th>handbook</th>
-<th>github</th>
-<th>npm</th>
-<th>star</th>
-<th>last_commit</th>
-<th>download</th>
-<th>version</th>
+      <th>Handbook</th>
+<th>Github</th>
+<th>NPM</th>
+<th>Stars</th>
+<th>Last Commit</th>
+<th>Download</th>
+<th>Version</th>
     </tr>
   </thead>
   <tbody align="left">
@@ -1109,10 +1109,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         rc-form-devtools
       </th>
       <th>
-        <a href="https://github.com/hunghg255/rc-form-devtools" target="_blank">Github</a>
+        <a href="https://github.com/hunghg255/rc-form-devtools" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://github.com/hunghg255/rc-form-devtools" target="_blank">NPM</a>
+        <a href="https://github.com/hunghg255/rc-form-devtools" target="_blank">#Npm</a>
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/hunghg255/rc-form-devtools?style=flat" alt="" />
