@@ -8,23 +8,24 @@ const GIST = `https://gist.githubusercontent.com/hunghg255/ee79b03819fd5f9a2a92c
 
 (async () => {
   try {
-    const { encoding, content } = (
-      await axios.get(`https://api.github.com/repos/${repository}/readme`, {
-        headers: {
-          Authorization: `token ${token}`,
-        },
-      })
-    ).data;
+    // const { encoding, content } = (
+    //   await axios.get(`https://api.github.com/repos/${repository}/readme`, {
+    //     headers: {
+    //       Authorization: `token ${token}`,
+    //     },
+    //   })
+    // ).data;
 
-    const readmeContent = Buffer.from(content, encoding).toString();
+    // const readmeContent = Buffer.from(content, encoding).toString();
 
-    const { sha } = (
-      await axios.get(
-        `https://api.github.com/repos/${repository}/contents/README.md`
-      )
-    ).data;
+    // const { sha } = (
+    //   await axios.get(
+    //     `https://api.github.com/repos/${repository}/contents/README.md`
+    //   )
+    // ).data;
 
     const { data } = await axios.get(GIST)
+    console.log({data});
 
     const formattedPosts = Object.keys(data).map((key) => {
       const projects = data[key];
@@ -44,6 +45,7 @@ const GIST = `https://gist.githubusercontent.com/hunghg255/ee79b03819fd5f9a2a92c
   </thead>
   <tbody align="left">
   ${projects.map((project) => {
+
     return `<tr>
       <th>
         ${project.handbook}
@@ -72,32 +74,32 @@ const GIST = `https://gist.githubusercontent.com/hunghg255/ee79b03819fd5f9a2a92c
 </table>
       `;
     }).join("\n");
+console.log(formattedPosts);
+    // const result = readmeContent.replace(
+    //   /<!-- start-projects -->\n(.|\n)*<!-- end-projects -->/gm,
+    //   `<!-- start-projects -->\n${formattedPosts}\n<!-- end-projects -->`
+    // );
 
-    const result = readmeContent.replace(
-      /<!-- start-projects -->\n(.|\n)*<!-- end-projects -->/gm,
-      `<!-- start-projects -->\n${formattedPosts}\n<!-- end-projects -->`
-    );
+    // if (result !== readmeContent) {
+    //   console.log("Different posts list");
 
-    if (result !== readmeContent) {
-      console.log("Different posts list");
-
-      await axios.put(
-        `https://api.github.com/repos/${repository}/contents/README.md`,
-        {
-          message: "Update README with latest posts",
-          content: Buffer.from(result).toString("base64"),
-          sha,
-        },
-        {
-          headers: {
-            Accept: "application/vnd.github.v3+json",
-            Authorization: `token ${token}`,
-          },
-        }
-      );
-    } else {
-      console.log("No new blog posts");
-    }
+    //   await axios.put(
+    //     `https://api.github.com/repos/${repository}/contents/README.md`,
+    //     {
+    //       message: "Update README with latest posts",
+    //       content: Buffer.from(result).toString("base64"),
+    //       sha,
+    //     },
+    //     {
+    //       headers: {
+    //         Accept: "application/vnd.github.v3+json",
+    //         Authorization: `token ${token}`,
+    //       },
+    //     }
+    //   );
+    // } else {
+    //   console.log("No new blog posts");
+    // }
 
     process.exit(0);
   } catch (error) {
