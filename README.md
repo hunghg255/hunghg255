@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://hung.thedev.id/">
+<!--   <a href="https://hung.thedev.id/">
     <img width="60" height="60" src="./img/me.jpeg" />
   </a>
-  <br>
+  <br> -->
   <p>Hi, I'm Hung, Frontend developer from Hanoi, Vietnam.</p>
 
 <p align="center">
