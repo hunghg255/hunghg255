@@ -11,7 +11,7 @@
     <a href="https://hung.thedev.id">me</a> .
     <a href="https://web-totals.vercel.app/blog">blog</a> .
     <a href="https://hunghg-resume.vercel.app/">resume</a> .
-    <a href="https://hung.thedev.id/projects">projects</a> .
+    <a href="https://toolsfe.vercel.app/tools/index.html">projects</a> .
     <a href="https://twitter.com/hunghg255">tweets</a> .
     <a href="https://hunghg-contact.vercel.app/">contacts</a>
     <br />
