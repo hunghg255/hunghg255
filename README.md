@@ -118,7 +118,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>Vite Plugin</h2>
 
@@ -229,7 +229,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Node - Script</h2>
 
@@ -501,7 +501,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Frontend</h2>
 
@@ -957,7 +957,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Extensions</h2>
 
@@ -1022,7 +1022,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Github Actions</h2>
 
@@ -1087,7 +1087,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Devtools</h2>
 
@@ -1129,7 +1129,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     </tr>
   </tbody>
 </table>
-      
+
 <!-- end-projects -->
 
 <h2 align='center'>💼 Bots</h2>
@@ -1166,6 +1166,14 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 </table>
 
 </details>
+
+
+[**CSS to tailwindcss Extension**](https://github.com/hunghg255/css-to-tailwindcss-extension) •
+[surge-preview](https://github.com/hunghg255/surge-preview) •
+[action-notifications](https://github.com/hunghg255/action-notifications) •
+[quill-resize-image](https://github.com/hunghg255/quill-resize-image) •
+[github-rank](https://hunghg255.github.io/github-rank/users.vietnam.html) •
+
 
 <div align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=hunghg255&show_icons=true&border_radius=15&count_private=true"/>
