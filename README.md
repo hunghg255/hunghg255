@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://hung.thedev.id/">
+<!--   <a href="https://hung.thedev.id/">
     <img width="60" height="60" src="./img/me.jpeg" />
   </a>
-  <br>
-  <p>Hi, I'm Hung, Frontend developer from Hanoi, Vietnam.</p>
+  <br> -->
+  <samp>Hi, I'm Hung, Frontend developer from Hanoi, Vietnam.</samp>
 
 <p align="center">
   <samp>
@@ -11,7 +11,7 @@
     <a href="https://hung.thedev.id">me</a> .
     <a href="https://web-totals.vercel.app/blog">blog</a> .
     <a href="https://hunghg-resume.vercel.app/">resume</a> .
-    <a href="https://hung.thedev.id/projects">projects</a> .
+    <a href="https://toolsfe.vercel.app/tools/index.html">projects</a> .
     <a href="https://twitter.com/hunghg255">tweets</a> .
     <a href="https://hunghg-contact.vercel.app/">contacts</a>
     <br />
@@ -1224,15 +1224,15 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C238%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C241%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.6%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6498 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-🌆 Daytime                13610 commits       ███████████░░░░░░░░░░░░░░   45.33 % 
+🌞 Morning                6499 commits        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+🌆 Daytime                13615 commits       ███████████░░░░░░░░░░░░░░   45.34 % 
 🌃 Evening                7831 commits        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
 🌙 Night                  2084 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
@@ -1240,10 +1240,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 
 ```text
 Monday                   4302 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Tuesday                  5866 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Tuesday                  5866 commits        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
 Wednesday                4679 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 Thursday                 8573 commits        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-Friday                   5195 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Friday                   5201 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
 Saturday                 901 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 Sunday                   507 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
@@ -1264,5 +1264,5 @@ VS Code                  43 hrs 51 mins      ███████████�
 ```
 
 
- Last Updated on 24/11/2023 04:47:49 UTC
+ Last Updated on 24/11/2023 13:01:39 UTC
 <!--END_SECTION:waka-->
