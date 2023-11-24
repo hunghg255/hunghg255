@@ -56,183 +56,6 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 
 <!-- start-projects -->
 
-<h2 align='center'>Rsbuild Plugin</h2>
-
-<table>
-  <thead align="center">
-    <tr>
-      <th>Name</th>
-<th>Github</th>
-<th>Npm</th>
-<th>Summary</th>
-<th>Technology</th>
-<th>Achievement</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-  <tr>
-      <th>
-        rsbuild-plugin-print
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/rsbuild-plugin-print" target="_blank">Github</a>
-      </th>
-      <th>
-        <a href="https://www.npmjs.com/package/rsbuild-plugin-print" target="_blank">NPM</a>
-      </th>
-      <th>Print text, show host with qrcode</th>
-      <th>
-        <img src="https://img.shields.io/badge/rsbuild-e9bfa1?style=flat-square&amp;logo=rsbuild&amp;logoColor=white" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/npm/dm/rsbuild-plugin-print" alt="badge">
-<img src="https://img.shields.io/github/stars/hunghg255/rsbuild-plugin-print?style=flat-square" alt="badge">
-      </th>
-    </tr>
-  </tbody>
-</table>
-
-<h2 align='center'>💼 Extensions</h2>
-
-<table>
-  <thead align="center">
-    <tr>
-      <th>Name</th>
-<th>Github</th>
-<th>Marketplace</th>
-<th>Summary</th>
-<th>Technology</th>
-<th>Achievement</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-  <tr>
-      <th>
-        Agile CSS Suggestion
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/agile-css-suggestion" target="_blank">Github</a>
-      </th>
-      <th>
-        <a href="https://marketplace.visualstudio.com/items?itemName=AgileCssSuggestion.agile-css-suggestion" target="_blank">Marketplace</a>
-      </th>
-      <th>Suggest Classname CSS</th>
-      <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/agile-css-suggestion?style=flat-square" alt="badge">
-      </th>
-    </tr>
-<tr>
-      <th>
-        CSS To TailwindCSS
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/css-to-tailwindcss-extension" target="_blank">Github</a>
-      </th>
-      <th>
-        <a href="https://marketplace.visualstudio.com/items?itemName=hunghg255.css-2-tailwindcss" target="_blank">Marketplace</a>
-      </th>
-      <th>Convert CSS To TailwindCSS</th>
-      <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/css-to-tailwindcss-extension?style=flat-square" alt="badge">
-      </th>
-    </tr>
-  </tbody>
-</table>
-
-<h2 align='center'>💼 Github Actions</h2>
-
-<table>
-  <thead align="center">
-    <tr>
-      <th>Name</th>
-<th>Github</th>
-<th>Marketplace</th>
-<th>Summary</th>
-<th>Technology</th>
-<th>Achievement</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-  <tr>
-      <th>
-        action-notifications
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/action-notifications" target="_blank">Github</a>
-      </th>
-      <th>
-        <a href="https://github.com/marketplace/actions/github-action-notification" target="_blank">Marketplace</a>
-      </th>
-      <th>Action Notification to Discord, Slack, Telegram, Google Chat, Microsoft Teams</th>
-      <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/action-notifications?style=flat-square" alt="badge">
-      </th>
-    </tr>
-<tr>
-      <th>
-        action-preview-site
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/surge-preview" target="_blank">Github</a>
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/surge-preview" target="_blank">Marketplace</a>
-      </th>
-      <th>Action deploy static site to surge</th>
-      <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/surge-preview?style=flat-square" alt="badge">
-      </th>
-    </tr>
-  </tbody>
-</table>
-
-<h2 align='center'>💼 Devtools</h2>
-
-<table>
-  <thead align="center">
-    <tr>
-      <th>Name</th>
-<th>Github</th>
-<th>Npm</th>
-<th>Summary</th>
-<th>Technology</th>
-<th>Achievement</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-  <tr>
-      <th>
-        rc-form-devtools
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/rc-form-devtools" target="_blank">Github</a>
-      </th>
-      <th>
-        <a href="https://www.npmjs.com/package/rc-form-devtools" target="_blank">NPM</a>
-      </th>
-      <th>Devtools debug for rc-field-form</th>
-      <th>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/rc-form-devtools?style=flat-square" alt="badge">
-      </th>
-    </tr>
-  </tbody>
-</table>
-
 <!-- end-projects -->
 
 <h2 align='center'>💼 Bots</h2>
@@ -296,16 +119,15 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C236%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C237%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.6%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤**
 
 ```text
-🌞 Morning                6489 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 %
-🌆 Daytime                13610 commits       ███████████░░░░░░░░░░░░░░   45.35 %
+🌞 Morning                6491 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 %
+🌆 Daytime                13610 commits       ███████████░░░░░░░░░░░░░░   45.34 %
 🌃 Evening                7831 commits        ███████░░░░░░░░░░░░░░░░░░   26.09 %
 🌙 Night                  2084 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 ```
@@ -317,7 +139,7 @@ Monday                   4302 commits        ████░░░░░░░�
 Tuesday                  5866 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 %
 Wednesday                4679 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
 Thursday                 8573 commits        ███████░░░░░░░░░░░░░░░░░░   28.56 %
-Friday                   5186 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 %
+Friday                   5188 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 %
 Saturday                 901 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 Sunday                   507 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
@@ -338,4 +160,5 @@ VS Code                  43 hrs 51 mins      ███████████�
 
 Last Updated on 24/11/2023 02:48:56 UTC
 
+ Last Updated on 24/11/2023 03:47:11 UTC
 <!--END_SECTION:waka-->
