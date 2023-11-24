@@ -3,7 +3,7 @@
     <img width="60" height="60" src="./img/me.jpeg" />
   </a>
   <br> -->
-  <p>Hi, I'm Hung, Frontend developer from Hanoi, Vietnam.</p>
+  <samp>Hi, I'm Hung, Frontend developer from Hanoi, Vietnam.</samp>
 
 <p align="center">
   <samp>
