@@ -62,7 +62,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     <tr>
       <th>Handbook</th>
 <th>Github</th>
-<th>NPM</th>
+<th>Npm</th>
 <th>Stars</th>
 <th>Last Commit</th>
 <th>Download</th>
@@ -127,7 +127,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     <tr>
       <th>Handbook</th>
 <th>Github</th>
-<th>NPM</th>
+<th>Npm</th>
 <th>Stars</th>
 <th>Last Commit</th>
 <th>Download</th>
@@ -238,7 +238,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     <tr>
       <th>Handbook</th>
 <th>Github</th>
-<th>NPM</th>
+<th>Npm</th>
 <th>Stars</th>
 <th>Last Commit</th>
 <th>Download</th>
@@ -441,10 +441,10 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         <a href="https://www.npmjs.com/package/@hunghg255/music-lyrics" target="_blank">#Npm</a>
       </th>
       <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/music-lyric?style=flat" alt="" />
+        <img src="https://img.shields.io/github/stars/hunghg255/music-lyrics?style=flat" alt="" />
       </th>
       <th>
-        <img src="https://img.shields.io/github/last-commit/hunghg255/music-lyric?style=flat&label=last" alt="" />
+        <img src="https://img.shields.io/github/last-commit/hunghg255/music-lyrics?style=flat&label=last" alt="" />
       </th>
       <th>
         <img src="https://badgen.net/npm/dm/@hunghg255/music-lyrics?label=npm&color=dd4e4c" alt="" />
@@ -510,7 +510,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     <tr>
       <th>Handbook</th>
 <th>Github</th>
-<th>NPM</th>
+<th>Npm</th>
 <th>Stars</th>
 <th>Last Commit</th>
 <th>Download</th>
@@ -546,16 +546,16 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         mega-menu-aim
       </th>
       <th>
-        <a href="https://github.com/hunghg255/mega-menu-aim" target="_blank">#Github</a>
+        <a href="https://github.com/hunghg255/menu-mega-aim" target="_blank">#Github</a>
       </th>
       <th>
         <a href="https://www.npmjs.com/package/mega-menu-aim" target="_blank">#Npm</a>
       </th>
       <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/mega-menu-aim?style=flat" alt="" />
+        <img src="https://img.shields.io/github/stars/hunghg255/menu-mega-aim?style=flat" alt="" />
       </th>
       <th>
-        <img src="https://img.shields.io/github/last-commit/hunghg255/mega-menu-aim?style=flat&label=last" alt="" />
+        <img src="https://img.shields.io/github/last-commit/hunghg255/menu-mega-aim?style=flat&label=last" alt="" />
       </th>
       <th>
         <img src="https://badgen.net/npm/dm/mega-menu-aim?label=npm&color=dd4e4c" alt="" />
@@ -989,7 +989,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     <tr>
       <th>Handbook</th>
 <th>Github</th>
-<th>undefined</th>
+<th>Marketplace</th>
 <th>Stars</th>
 <th>Last Commit</th>
 <th>Download</th>
@@ -1054,7 +1054,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     <tr>
       <th>Handbook</th>
 <th>Github</th>
-<th>undefined</th>
+<th>Marketplace</th>
 <th>Stars</th>
 <th>Last Commit</th>
 <th>Download</th>
@@ -1119,7 +1119,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     <tr>
       <th>Handbook</th>
 <th>Github</th>
-<th>NPM</th>
+<th>Npm</th>
 <th>Stars</th>
 <th>Last Commit</th>
 <th>Download</th>
