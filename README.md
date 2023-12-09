@@ -20,9 +20,6 @@
     <a href="https://github.com/hunghg255/use">use</a>
   </samp>
 </p>
-
-  <br>
-  <br>
 </div>
 
 <h2 align='center'>💖 Sponsor</h2>
