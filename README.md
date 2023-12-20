@@ -52,6 +52,48 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 
 <!-- start-projects -->
 
+<h2 align='center'>Rspress Plugin</h2>
+
+<table>
+  <thead align="center">
+    <tr>
+      <th>Handbook</th>
+<th>Github</th>
+<th>Npm</th>
+<th>Stars</th>
+<th>Last Commit</th>
+<th>Download</th>
+<th>Version</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+  <tr>
+      <th>
+        rspress-plugin-shiki
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/rspress-plugin-shiki" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/rspress-plugin-shiki" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/rspress-plugin-shiki?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/rspress-plugin-shiki?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/rspress-plugin-shiki?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/rspress-plugin-shiki.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+  </tbody>
+</table>
+      
+
 <h2 align='center'>Rsbuild Plugin</h2>
 
 <table>
@@ -228,7 +270,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 </table>
       
 
-<h2 align='center'>💼 Node - Script</h2>
+<h2 align='center'>💼 Nodejs</h2>
 
 <table>
   <thead align="center">
@@ -516,6 +558,52 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
   </thead>
   <tbody align="left">
   <tr>
+      <th>
+        csvgtocss
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/csvgtocss" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/csvgtocss" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/csvgtocss?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/csvgtocss?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/csvgtocss?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/csvgtocss.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
+        plugin-shiki-transformers
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/plugin-shiki-transformers" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/plugin-shiki-transformers" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/plugin-shiki-transformers?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/plugin-shiki-transformers?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/plugin-shiki-transformers?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/plugin-shiki-transformers.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
       <th>
         window-onscroll
       </th>
