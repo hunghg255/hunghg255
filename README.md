@@ -1326,6 +1326,7 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 [surge-preview](https://github.com/hunghg255/surge-preview) •
 [action-notifications](https://github.com/hunghg255/action-notifications) •
 [quill-resize-image](https://github.com/hunghg255/quill-resize-image) •
+[svg-to-css](https://github.com/hunghg255/csvgtocss) •
 [github-rank](https://hunghg255.github.io/github-rank/users.vietnam.html) •
 
 
