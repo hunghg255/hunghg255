@@ -111,6 +111,29 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
   <tbody align="left">
   <tr>
       <th>
+        rsbuild-plugin-react-inspector
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/rsbuild-plugin-react-inspector" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/rsbuild-plugin-react-inspector" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/rsbuild-plugin-react-inspector?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/rsbuild-plugin-react-inspector?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/rsbuild-plugin-react-inspector?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/rsbuild-plugin-react-inspector.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
         rsbuild-plugin-print
       </th>
       <th>
@@ -175,6 +198,29 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
   </thead>
   <tbody align="left">
   <tr>
+      <th>
+        vite-plugin-reactjs-inspector
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/vite-plugin-reactjs-inspector" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/vite-plugin-reactjs-inspector" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/vite-plugin-reactjs-inspector?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/vite-plugin-reactjs-inspector?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/vite-plugin-reactjs-inspector?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/vite-plugin-reactjs-inspector.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
       <th>
         vite-host-qrcode
       </th>
