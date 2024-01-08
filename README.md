@@ -1220,6 +1220,52 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         <img src="https://img.shields.io/github/v/tag/hunghg255/css-to-tailwindcss-extension?style=flat&label=&labelColor=555&logo=github" alt="" />
       </th>
     </tr>
+<tr>
+      <th>
+        iconify-preview
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/iconify-preview" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://marketplace.visualstudio.com/items?itemName=hunghg255.iconify-preview" target="_blank">#Marketplace</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/iconify-preview?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/iconify-preview?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/iconify-preview?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/v/tag/hunghg255/iconify-preview?style=flat&label=&labelColor=555&logo=github" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
+        i18n-preview
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/i18n-preview" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://marketplace.visualstudio.com/items?itemName=hunghg255.i18n-preview" target="_blank">#Marketplace</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/i18n-preview?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/i18n-preview?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/i18n-preview?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/v/tag/hunghg255/i18n-preview?style=flat&label=&labelColor=555&logo=github" alt="" />
+      </th>
+    </tr>
   </tbody>
 </table>
       
