@@ -1460,13 +1460,6 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-  <h2 align='center'> 🏆 Github Profile Trophy</h2>
-
-<img
-       src="https://github-profile-trophy.vercel.app/?username=hunghg255&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"
-       alt="hunghg255"
-  />
-
 </div>
 
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
