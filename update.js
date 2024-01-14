@@ -27,7 +27,7 @@ const uppercaseFirstLetter = (string) => {
       )
     ).data;
 
-    const xml = (await axios.get('https://web-totals.vercel.app/blog/rss.xml')).data;
+    const xml = (await axios.get('https://web-totals.vercel.app/rss.xml')).data;
     const result1 = JSON.parse(
       convert.xml2json(xml, { compact: true }),
     );
