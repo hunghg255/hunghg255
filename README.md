@@ -1335,6 +1335,29 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         <img src="https://img.shields.io/github/v/tag/hunghg255/i18n-preview?style=flat&label=&labelColor=555&logo=github" alt="" />
       </th>
     </tr>
+<tr>
+      <th>
+        color-preview
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/color-preview" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://marketplace.visualstudio.com/items?itemName=hunghg255.color-preview" target="_blank">#Marketplace</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/color-preview?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/color-preview?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/color-preview?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/v/tag/hunghg255/color-preview?style=flat&label=&labelColor=555&logo=github" alt="" />
+      </th>
+    </tr>
   </tbody>
 </table>
       
