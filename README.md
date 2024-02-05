@@ -12,7 +12,7 @@
     <a href="https://web-totals.vercel.app/blog">blog</a> .
     <a href="https://hunghg-resume.vercel.app/">resume</a> .
     <a href="https://toolsfe.vercel.app/tools/index.html">projects</a> .
-    <a href="https://twitter.com/hunghg255">tweets</a> 
+    <a href="https://twitter.com/hunghg255">X</a> 
     <br />
     <a href="mailto:giahung197bg@gmail.com">mail</a> .
     <a href="https://gist.github.com/hunghg255">gist</a> .
