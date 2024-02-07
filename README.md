@@ -1311,6 +1311,52 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
         <img src="https://img.shields.io/npm/v/markdown-it-code-group.svg?label=&logo=npm" alt="" />
       </th>
     </tr>
+<tr>
+      <th>
+        convert-markdown-to-html
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/convert-markdown-to-html" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/convert-markdown-to-html" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/convert-markdown-to-html?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/convert-markdown-to-html?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/convert-markdown-to-html?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/convert-markdown-to-html.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
+        md-it-katex
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/md-it-katex" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/md-it-katex" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/md-it-katex?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/md-it-katex?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/md-it-katex?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/md-it-katex.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
   </tbody>
 </table>
       
