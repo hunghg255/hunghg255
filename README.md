@@ -378,75 +378,6 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
   <tbody align="left">
   <tr>
       <th>
-        create-template-fe
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/create-template-fe" target="_blank">#Github</a>
-      </th>
-      <th>
-        <a href="https://www.npmjs.com/package/create-template-fe" target="_blank">#Npm</a>
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/create-template-fe?style=flat" alt="" />
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/last-commit/hunghg255/create-template-fe?style=flat&label=last" alt="" />
-      </th>
-      <th>
-        <img src="https://badgen.net/npm/dm/create-template-fe?label=npm&color=dd4e4c" alt="" />
-      </th>
-      <th>
-        <img src="https://img.shields.io/npm/v/create-template-fe.svg?label=&logo=npm" alt="" />
-      </th>
-    </tr>
-<tr>
-      <th>
-        bumpp-version
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/bumpp-version" target="_blank">#Github</a>
-      </th>
-      <th>
-        <a href="https://www.npmjs.com/package/bumpp-version" target="_blank">#Npm</a>
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/bumpp-version?style=flat" alt="" />
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/last-commit/hunghg255/bumpp-version?style=flat&label=last" alt="" />
-      </th>
-      <th>
-        <img src="https://badgen.net/npm/dm/bumpp-version?label=npm&color=dd4e4c" alt="" />
-      </th>
-      <th>
-        <img src="https://img.shields.io/npm/v/bumpp-version.svg?label=&logo=npm" alt="" />
-      </th>
-    </tr>
-<tr>
-      <th>
-        ctun
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/ctun" target="_blank">#Github</a>
-      </th>
-      <th>
-        <a href="https://www.npmjs.com/package/ctun" target="_blank">#Npm</a>
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/ctun?style=flat" alt="" />
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/last-commit/hunghg255/ctun?style=flat&label=last" alt="" />
-      </th>
-      <th>
-        <img src="https://badgen.net/npm/dm/ctun?label=npm&color=dd4e4c" alt="" />
-      </th>
-      <th>
-        <img src="https://img.shields.io/npm/v/ctun.svg?label=&logo=npm" alt="" />
-      </th>
-    </tr>
-<tr>
-      <th>
         verify-commit-msg
       </th>
       <th>
@@ -466,29 +397,6 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
       </th>
       <th>
         <img src="https://img.shields.io/npm/v/verify-commit-msg.svg?label=&logo=npm" alt="" />
-      </th>
-    </tr>
-<tr>
-      <th>
-        changeloggithub
-      </th>
-      <th>
-        <a href="https://github.com/hunghg255/changeloggithub" target="_blank">#Github</a>
-      </th>
-      <th>
-        <a href="https://www.npmjs.com/package/changeloggithub" target="_blank">#Npm</a>
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/changeloggithub?style=flat" alt="" />
-      </th>
-      <th>
-        <img src="https://img.shields.io/github/last-commit/hunghg255/changeloggithub?style=flat&label=last" alt="" />
-      </th>
-      <th>
-        <img src="https://badgen.net/npm/dm/changeloggithub?label=npm&color=dd4e4c" alt="" />
-      </th>
-      <th>
-        <img src="https://img.shields.io/npm/v/changeloggithub.svg?label=&logo=npm" alt="" />
       </th>
     </tr>
 <tr>
@@ -631,6 +539,140 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     </tr>
 <tr>
       <th>
+        unloger
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/unloger" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/unloger" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/unloger?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/unloger?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/unloger?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/unloger.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+  </tbody>
+</table>
+      
+
+<h2 align='center'>💼 CLI</h2>
+
+<table>
+  <thead align="center">
+    <tr>
+      <th>Handbook</th>
+<th>Github</th>
+<th>Npm</th>
+<th>Stars</th>
+<th>Last Commit</th>
+<th>Download</th>
+<th>Version</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+  <tr>
+      <th>
+        create-template-fe
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/create-template-fe" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/create-template-fe" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/create-template-fe?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/create-template-fe?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/create-template-fe?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/create-template-fe.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
+        ctun
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/ctun" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/ctun" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/ctun?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/ctun?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/ctun?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/ctun.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
+        bumpp-version
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/bumpp-version" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/bumpp-version" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/bumpp-version?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/bumpp-version?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/bumpp-version?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/bumpp-version.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
+        changeloggithub
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/changeloggithub" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/changeloggithub" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/changeloggithub?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/changeloggithub?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/changeloggithub?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/changeloggithub.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
         commitz-lint
       </th>
       <th>
@@ -677,25 +719,25 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
     </tr>
 <tr>
       <th>
-        unloger
+        pkg-search
       </th>
       <th>
-        <a href="https://github.com/hunghg255/unloger" target="_blank">#Github</a>
+        <a href="https://github.com/hunghg255/pkg-search" target="_blank">#Github</a>
       </th>
       <th>
-        <a href="https://www.npmjs.com/package/unloger" target="_blank">#Npm</a>
+        <a href="https://www.npmjs.com/package/pkg-search" target="_blank">#Npm</a>
       </th>
       <th>
-        <img src="https://img.shields.io/github/stars/hunghg255/unloger?style=flat" alt="" />
+        <img src="https://img.shields.io/github/stars/hunghg255/pkg-search?style=flat" alt="" />
       </th>
       <th>
-        <img src="https://img.shields.io/github/last-commit/hunghg255/unloger?style=flat&label=last" alt="" />
+        <img src="https://img.shields.io/github/last-commit/hunghg255/pkg-search?style=flat&label=last" alt="" />
       </th>
       <th>
-        <img src="https://badgen.net/npm/dm/unloger?label=npm&color=dd4e4c" alt="" />
+        <img src="https://badgen.net/npm/dm/pkg-search?label=npm&color=dd4e4c" alt="" />
       </th>
       <th>
-        <img src="https://img.shields.io/npm/v/unloger.svg?label=&logo=npm" alt="" />
+        <img src="https://img.shields.io/npm/v/pkg-search.svg?label=&logo=npm" alt="" />
       </th>
     </tr>
   </tbody>
