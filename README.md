@@ -761,6 +761,29 @@ If my code has been helpful to you, kindly consider [sponsoring me](https://gith
   <tbody align="left">
   <tr>
       <th>
+        react-marques
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/react-marques" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/react-marques" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/react-marques?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/react-marques?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/react-marques?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/react-marques.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
         swagger-typescript-api-es
       </th>
       <th>
