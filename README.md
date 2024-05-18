@@ -22,18 +22,6 @@
 </p>
 </div>
 
-<h2 align='center'>💖 Sponsor</h2>
-
-If my code has been helpful to you, kindly consider [sponsoring me](https://github.com/sponsors/hunghg255).
-
-- [GitHub Sponsor](https://github.com/sponsors/hunghg255)
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/hunghg255/sponsors/main/sponsors.svg">
-    <img src="https://raw.githubusercontent.com/hunghg255/sponsors/main/sponsors.wide.svg" />
-  </a>
-</p>
-
 <h2 align='center'>📖 Latest blog posts</h2>
 
 <!-- start-blog-posts -->
