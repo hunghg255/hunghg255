@@ -1831,14 +1831,16 @@
 </details>
 
 
-[**CSS to tailwindcss Extension**](https://github.com/hunghg255/css-to-tailwindcss-extension) •
+[CSS to tailwindcss Extension](https://github.com/hunghg255/css-to-tailwindcss-extension) •
 [surge-preview](https://github.com/hunghg255/surge-preview) •
 [action-notifications](https://github.com/hunghg255/action-notifications) •
 [quill-resize-image](https://github.com/hunghg255/quill-resize-image) •
 [svg-to-css](https://github.com/hunghg255/csvgtocss) •
-[svg-to-font](https://github.com/hunghg255/svg-to-font) •
 [convert-markdown-to-html](https://github.com/hunghg255/convert-markdown-to-html) •
 [unnote](https://unnote.vercel.app/) •
+[photo-smaller](https://photo-smaller.vercel.app/) •
+[vietnam-payment-qr-code](https://vnqrcode.vercel.app/) •
+[blur-image](https://github.com/hunghg255/blur-images) •
 [github-rank](https://hunghg255.github.io/github-rank/users.vietnam.html)
 
 
@@ -1855,7 +1857,7 @@
        alt="hunghg255"
   />
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+
 
 </div>
 
