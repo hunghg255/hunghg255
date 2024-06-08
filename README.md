@@ -1915,5 +1915,5 @@ VS Code                  38 hrs 34 mins      ███████████�
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover !important; width: 130vw; opacity: 0.1; background: url('https://raw.githubusercontent.com/hunghg255/hunghg255/master/img/bg.webp');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover !important; width: 130vw; opacity: 1; background: url('https://raw.githubusercontent.com/hunghg255/hunghg255/master/img/bg.webp');]{x0000}$}
 ```
