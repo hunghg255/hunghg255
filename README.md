@@ -1914,5 +1914,3 @@ VS Code                  38 hrs 34 mins      ███████████�
 
 
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; opacity: 0.5; height: 100vh; width: 100vw; opacity: 1; background: url('https://raw.githubusercontent.com/hunghg255/hunghg255/master/img/bg-gra.png') no-repeat;]{x0000}$}
