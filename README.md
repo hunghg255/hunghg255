@@ -12,7 +12,7 @@
     <a href="https://web-totals.vercel.app/blog">blog</a> .
     <a href="https://hunghg-resume.vercel.app/">resume</a> .
     <a href="https://toolsfe.vercel.app/tools/index.html">projects</a> .
-    <a href="https://twitter.com/hunghg255">X</a> 
+    <a href="https://twitter.com/hunghg255">X</a>
     <br />
     <a href="mailto:giahung197bg@gmail.com">mail</a> .
     <a href="https://gist.github.com/hunghg255">gist</a> .
@@ -103,7 +103,7 @@
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>Rsbuild Plugin</h2>
 
@@ -237,7 +237,7 @@
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>Vite Plugin</h2>
 
@@ -371,7 +371,7 @@
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Nodejs</h2>
 
@@ -643,7 +643,7 @@
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 CLI</h2>
 
@@ -823,7 +823,7 @@
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Frontend</h2>
 
@@ -1486,7 +1486,7 @@
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Markdown</h2>
 
@@ -1574,7 +1574,7 @@
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Extensions</h2>
 
@@ -1708,7 +1708,7 @@
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Github Actions</h2>
 
@@ -1773,7 +1773,7 @@
     </tr>
   </tbody>
 </table>
-      
+
 
 <h2 align='center'>💼 Devtools</h2>
 
@@ -1815,7 +1815,7 @@
     </tr>
   </tbody>
 </table>
-      
+
 <!-- end-projects -->
 
 <h2 align='center'>💼 Bots</h2>
@@ -1873,39 +1873,39 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.5%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                12836 commits       ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-🌆 Daytime                25096 commits       ████████████░░░░░░░░░░░░░   48.64 % 
-🌃 Evening                11429 commits       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-🌙 Night                  2236 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+🌞 Morning                12836 commits       ██████░░░░░░░░░░░░░░░░░░░   24.88 %
+🌆 Daytime                25096 commits       ████████████░░░░░░░░░░░░░   48.64 %
+🌃 Evening                11429 commits       ██████░░░░░░░░░░░░░░░░░░░   22.15 %
+🌙 Night                  2236 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   7332 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Tuesday                  8769 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Wednesday                8771 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Thursday                 14561 commits       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-Friday                   9363 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Saturday                 1760 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Sunday                   1041 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Monday                   7332 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Tuesday                  8769 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 %
+Wednesday                8771 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 %
+Thursday                 14561 commits       ███████░░░░░░░░░░░░░░░░░░   28.22 %
+Friday                   9363 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 %
+Saturday                 1760 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Sunday                   1041 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               22 hrs 53 mins      ███████████████░░░░░░░░░░   59.35 % 
-JSON                     5 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-JavaScript               3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-SCSS                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+💬 Programming Languages:
+TypeScript               22 hrs 53 mins      ███████████████░░░░░░░░░░   59.35 %
+JSON                     5 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 %
+JavaScript               3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+SCSS                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 
-🔥 Editors: 
-VS Code                  38 hrs 34 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  38 hrs 34 mins      █████████████████████████   100.00 %
 ```
 
 
@@ -1915,4 +1915,4 @@ VS Code                  38 hrs 34 mins      ███████████�
 
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover !important; background-position: center; width: 100vw; opacity: 1; background: url('https://raw.githubusercontent.com/hunghg255/hunghg255/master/img/bg.webp') no-repeat;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover !important; background-position: center; width: 100vw; opacity: 1; background: url('https://raw.githubusercontent.com/hunghg255/hunghg255/master/img/bg-white.webp') no-repeat;]{x0000}$}
