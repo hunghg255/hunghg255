@@ -1,8 +1,3 @@
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover !important; width: 130vw; opacity: 0.1; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8');]{x0000}$}
-```
-
 <div align="center">
 <!--   <a href="https://hung.thedev.id/">
     <img width="60" height="60" src="./img/me.jpeg" />
@@ -1916,3 +1911,9 @@ VS Code                  38 hrs 34 mins      ███████████�
 
  Last Updated on 08/01/2024 11:48:56 UTC
 <!--END_SECTION:waka-->
+
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover !important; width: 130vw; opacity: 0.1; background: url('https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8');]{x0000}$}
+```
