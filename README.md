@@ -103,7 +103,7 @@
     </tr>
   </tbody>
 </table>
-
+      
 
 <h2 align='center'>Rsbuild Plugin</h2>
 
@@ -237,7 +237,7 @@
     </tr>
   </tbody>
 </table>
-
+      
 
 <h2 align='center'>Vite Plugin</h2>
 
@@ -371,7 +371,7 @@
     </tr>
   </tbody>
 </table>
-
+      
 
 <h2 align='center'>💼 Nodejs</h2>
 
@@ -643,7 +643,7 @@
     </tr>
   </tbody>
 </table>
-
+      
 
 <h2 align='center'>💼 CLI</h2>
 
@@ -823,7 +823,7 @@
     </tr>
   </tbody>
 </table>
-
+      
 
 <h2 align='center'>💼 Frontend</h2>
 
@@ -1486,7 +1486,7 @@
     </tr>
   </tbody>
 </table>
-
+      
 
 <h2 align='center'>💼 Markdown</h2>
 
@@ -1574,7 +1574,7 @@
     </tr>
   </tbody>
 </table>
-
+      
 
 <h2 align='center'>💼 Extensions</h2>
 
@@ -1708,7 +1708,7 @@
     </tr>
   </tbody>
 </table>
-
+      
 
 <h2 align='center'>💼 Github Actions</h2>
 
@@ -1773,7 +1773,7 @@
     </tr>
   </tbody>
 </table>
-
+      
 
 <h2 align='center'>💼 Devtools</h2>
 
@@ -1815,7 +1815,7 @@
     </tr>
   </tbody>
 </table>
-
+      
 <!-- end-projects -->
 
 <h2 align='center'>💼 Bots</h2>
