@@ -25,12 +25,12 @@
 <h2 align='center'>📖 Latest blog posts</h2>
 
 <!-- start-blog-posts -->
-- [SVG icon with pure css](https://web-totals.vercel.app/blog/svg-icon-with-pure-css) - `Wed, 20 Dec 2023 03:47:58 GMT`
-- [React Provider Hell](https://web-totals.vercel.app/blog/react-provider-hell) - `Tue, 19 Sep 2023 19:28:57 GMT`
-- [Example Callstack And Event loop](https://web-totals.vercel.app/blog/event-loop-call-stack-example) - `Tue, 05 Sep 2023 04:54:37 GMT`
-- [Centering in CSS](https://web-totals.vercel.app/blog/center-css) - `Fri, 12 May 2023 04:20:35 GMT`
-- [Vscode extensions useful](https://web-totals.vercel.app/blog/vscode-extensions-useful) - `Mon, 24 Apr 2023 17:21:54 GMT`
-- [Convert svgs file to jsx by one script](https://web-totals.vercel.app/blog/convert-svgs-to-jsx) - `Mon, 24 Apr 2023 17:13:15 GMT`
+- [ SVG icon with pure css ](https://web-totals.vercel.app/blogs/svg-icon-with-pure-css) - `2023-12-20T00:00:00.000Z`
+- [ React Provider Hell ](https://web-totals.vercel.app/blogs/react-provider-hell) - `2023-09-19T00:00:00.000Z`
+- [ Example Callstack And Event loop ](https://web-totals.vercel.app/blogs/event-loop-call-stack-example) - `2023-09-05T00:00:00.000Z`
+- [ Centering in CSS ](https://web-totals.vercel.app/blogs/center-css) - `2023-05-12T00:00:00.000Z`
+- [ Convert svgs file to jsx by one script ](https://web-totals.vercel.app/blogs/convert-svgs-to-jsx) - `2023-04-24T00:00:00.000Z`
+- [ Vscode extensions useful ](https://web-totals.vercel.app/blogs/vscode-extensions-useful) - `2023-04-24T00:00:00.000Z`
 <!-- end-blog-posts -->
 
 <h2 align='center'>💖 Repositories </h2>
