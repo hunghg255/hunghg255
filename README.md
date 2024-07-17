@@ -1865,8 +1865,8 @@
 [vietnam-payment-qr-code](https://vnqrcode.vercel.app/) •
 [blur-image](https://github.com/hunghg255/blur-images) •
 [github-rank](https://hunghg255.github.io/github-rank/users.vietnam.html) •
-[js-utils-es](https://js-utils-es.vercel.app/)
-
+[js-utils-es](https://js-utils-es.vercel.app/) •
+[playjs](https://playjs.js.org/)
 
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
