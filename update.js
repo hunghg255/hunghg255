@@ -32,9 +32,23 @@ const uppercaseFirstLetter = (string) => {
       convert.xml2json(xml, { compact: true }),
     );
 
-    const blogs = result1.rss.channel.item.slice(0, 6);
+    const blogs = result1.rss.channel.item.filter((v) => {
+      if (v.link._text === 'https://web-totals.vercel.app/blogs/blog') return false;
 
-    const formattedPosts = blogs
+      if (v.link._text.startsWith('https://web-totals.vercel.app/blogs')) {
+        return true;
+      }
+
+      return false;
+    });
+
+
+    const blogsSorted = blogs.sort((a, b) => {
+      return new Date(b.pubDate._text) - new Date(a.pubDate._text);
+    });
+    const blogsLatest = blogsSorted.slice(0, 6);
+
+    const formattedPosts = blogsLatest
       .map((post) => {
         const title = post.title._cdata;
         return `- [${uppercaseFirstLetter(title)}](${post.link._text}) - \`${post.pubDate._text}\``;
