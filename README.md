@@ -373,7 +373,7 @@
 </table>
       
 
-<h2 align='center'>💼 Nodejs</h2>
+<h2 align='center'>💼 Nodejs - Javascript</h2>
 
 <table>
   <thead align="center">
@@ -389,6 +389,29 @@
   </thead>
   <tbody align="left">
   <tr>
+      <th>
+        js-utils-es
+      </th>
+      <th>
+        <a href="https://github.com/agiletech-web-dev/js-utils-es" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/js-utils-es" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/agiletech-web-dev/js-utils-es?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/agiletech-web-dev/js-utils-es?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/js-utils-es?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/js-utils-es.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
       <th>
         un-cc
       </th>
