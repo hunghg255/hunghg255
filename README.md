@@ -865,6 +865,29 @@
   <tbody align="left">
   <tr>
       <th>
+        tiny-fuzzy-search
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/tiny-fuzzy-search" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/tiny-fuzzy-search" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/tiny-fuzzy-search?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/tiny-fuzzy-search?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/tiny-fuzzy-search?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/tiny-fuzzy-search.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
         rc-unmodal
       </th>
       <th>
