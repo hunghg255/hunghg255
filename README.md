@@ -865,6 +865,29 @@
   <tbody align="left">
   <tr>
       <th>
+        telegram-sdk
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/telegram-sdk" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/telegram-sdk" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/telegram-sdk?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/telegram-sdk?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/telegram-sdk?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/telegram-sdk.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
         tiny-fuzzy-search
       </th>
       <th>
