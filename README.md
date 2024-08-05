@@ -865,6 +865,29 @@
   <tbody align="left">
   <tr>
       <th>
+        tiptap-extension-emoji
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/tiptap-extension-emoji" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/tiptap-extension-emoji" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/tiptap-extension-emoji?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/tiptap-extension-emoji?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/tiptap-extension-emoji?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/tiptap-extension-emoji.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
         rc-tiptap-editor
       </th>
       <th>
