@@ -1960,7 +1960,7 @@
 [js-utils-es](https://js-utils-es.vercel.app/) •
 [playjs](https://playjs.js.org/) •
 [tiny-codesandbox](https://tiny-codesandbox.vercel.app/) •
-[rc-tiptap-editor](https://rc-tiptap-editor.vercel.app/)
+[reactjs-tiptap-editor](https://reactjs-tiptap-editor-playground.vercel.app/)
 
 
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
