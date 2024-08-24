@@ -865,6 +865,29 @@
   <tbody align="left">
   <tr>
       <th>
+        rc-emoji-picker
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/rc-emoji-picker" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://www.npmjs.com/package/rc-emoji-picker" target="_blank">#Npm</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/rc-emoji-picker?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/rc-emoji-picker?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/rc-emoji-picker?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/npm/v/rc-emoji-picker.svg?label=&logo=npm" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
         reactjs-tiptap-editor
       </th>
       <th>
