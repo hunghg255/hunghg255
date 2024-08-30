@@ -1842,6 +1842,29 @@
   <tbody align="left">
   <tr>
       <th>
+        action-modify-file
+      </th>
+      <th>
+        <a href="https://github.com/hunghg255/action-modify-file" target="_blank">#Github</a>
+      </th>
+      <th>
+        <a href="https://github.com/marketplace/actions/action-modify-file" target="_blank">#Marketplace</a>
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/hunghg255/action-modify-file?style=flat" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/last-commit/hunghg255/action-modify-file?style=flat&label=last" alt="" />
+      </th>
+      <th>
+        <img src="https://badgen.net/npm/dm/action-modify-file?label=npm&color=dd4e4c" alt="" />
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/v/tag/hunghg255/action-modify-file?style=flat&label=&labelColor=555&logo=github" alt="" />
+      </th>
+    </tr>
+<tr>
+      <th>
         action-notifications
       </th>
       <th>
