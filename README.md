@@ -17,7 +17,8 @@
     <a href="mailto:giahung197bg@gmail.com">mail</a> .
     <a href="https://gist.github.com/hunghg255">gist</a> .
     <a href="https://github.com/hunghg255/use">use</a> .
-    <a href="https://wakatime.com/@hunghg255">wakatime</a>
+    <a href="https://wakatime.com/@hunghg255">wakatime</a> .
+    <a href="https://www.tiktok.com/@onlyfrontend">tiktok</a>
   </samp>
 </p>
 </div>
