@@ -8,9 +8,9 @@
 <p align="center">
   <samp>
     <span>learning</span> .
-    <a href="https://hung.thedev.id">me</a> .
-    <a href="https://web-totals.vercel.app/blogs">blogs</a> .
-    <a href="https://hunghg-resume.vercel.app/">resume</a> .
+    <a href="https://hunghg.me">me</a> .
+    <a href="https://blog.hunghg.me/blogs">blogs</a> .
+    <a href="https://resume.hunghg.me">resume</a> .
     <a href="https://toolsfe.vercel.app/tools/index.html">projects</a> .
     <a href="https://twitter.com/hunghg255">X</a>
     <br />
