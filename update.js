@@ -27,15 +27,15 @@ const uppercaseFirstLetter = (string) => {
       )
     ).data;
 
-    const xml = (await axios.get('https://web-totals.vercel.app/rss.xml')).data;
+    const xml = (await axios.get('https://blog.hunghg.me/rss.xml')).data;
     const result1 = JSON.parse(
       convert.xml2json(xml, { compact: true }),
     );
 
     const blogs = result1.rss.channel.item.filter((v) => {
-      if (v.link._text === 'https://web-totals.vercel.app/blogs/blog') return false;
+      if (v.link._text === 'https://blog.hunghg.me/blogs/blog') return false;
 
-      if (v.link._text.startsWith('https://web-totals.vercel.app/blogs')) {
+      if (v.link._text.startsWith('https://blog.hunghg.me/blogs')) {
         return true;
       }
 
