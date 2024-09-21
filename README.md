@@ -11,7 +11,7 @@
     <a href="https://hunghg.me">me</a> .
     <a href="https://blog.hunghg.me/blogs">blogs</a> .
     <a href="https://resume.hunghg.me">resume</a> .
-    <a href="https://toolsfe.vercel.app/tools/index.html">projects</a> .
+    <a href="https://blog.hunghg.me/tools">projects</a> .
     <a href="https://twitter.com/hunghg255">X</a>
     <br />
     <a href="mailto:giahung197bg@gmail.com">mail</a> .
