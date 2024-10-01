@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 'use strict'
 
-require('open')('https://hung.thedev.id/')
+require('open')('https://hunghg.me')
