@@ -14,7 +14,7 @@
     <a href="https://blog.hunghg.me/tools">projects</a> .
     <a href="https://twitter.com/hunghg255">X</a>
     <br />
-    <a href="mailto:giahung197bg@gmail.com">mail</a> .
+    <a href="mailto:hi@hunghg.me">mail</a> .
     <a href="https://gist.github.com/hunghg255">gist</a> .
     <a href="https://github.com/hunghg255/use">use</a> .
     <a href="https://wakatime.com/@hunghg255">wakatime</a> .
