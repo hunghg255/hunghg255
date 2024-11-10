@@ -2059,6 +2059,14 @@
 
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
+<p align="center">
+<img
+	src="https://spotify-badge-hunghg255.vercel.app/api/now-playing.svg"
+	width="540"
+	height="52"
+/>
+</p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C510%20hrs-blue)
 
