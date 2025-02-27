@@ -27,12 +27,12 @@
 <h2 align='center'>📖 Latest blog posts</h2>
 
 <!-- start-blog-posts -->
+- [ Instance Hook Pattern ](https://blog.hunghg.me/blogs/instance-hook-pattern) - `2025-01-07T00:00:00.000Z`
 - [ Tìm hiểu về require và import trong javascript ](https://blog.hunghg.me/blogs/require-vs-import-in-javascript) - `2024-09-24T00:00:00.000Z`
 - [ Tìm hiểu về Tree shaking trong JavaScript ](https://blog.hunghg.me/blogs/understanding-tree-shaking-javascript) - `2024-09-24T00:00:00.000Z`
 - [ SVG icon with pure css ](https://blog.hunghg.me/blogs/svg-icon-with-pure-css) - `2023-12-20T00:00:00.000Z`
 - [ React Provider Hell ](https://blog.hunghg.me/blogs/react-provider-hell) - `2023-09-19T00:00:00.000Z`
 - [ Example Callstack And Event loop ](https://blog.hunghg.me/blogs/event-loop-call-stack-example) - `2023-09-05T00:00:00.000Z`
-- [ Centering in CSS ](https://blog.hunghg.me/blogs/center-css) - `2023-05-12T00:00:00.000Z`
 <!-- end-blog-posts -->
 
 <h2 align='center'>💖 Repositories </h2>
