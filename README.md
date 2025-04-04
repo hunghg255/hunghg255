@@ -13,7 +13,8 @@
     <a href="https://resume.hunghg.me">resume</a> .
     <a href="https://blog.hunghg.me/tools">projects</a> .
     <a href="https://npmstat.hunghg.me/">npm-stat</a> .
-    <a href="https://twitter.com/hunghg255">X</a>
+    <a href="https://twitter.com/hunghg255">X</a> .
+    <a href="http://short.hunghg.me/bsky">bsky</a>
     <br />
     <a href="mailto:hi@hunghg.me">mail</a> .
     <a href="https://gist.github.com/hunghg255">gist</a> .
