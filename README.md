@@ -2060,13 +2060,16 @@
 
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
-<p align="center">
+<!-- <p align="center">
 <img
 	src="https://spotify-badge-hunghg255.vercel.app/api/now-playing.svg"
 	width="540"
 	height="52"
 />
-</p>
+</p> -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/ncdai.svg?base=16941&amp;variant=outline&amp;font=geist" /><img alt="profile views" src="https://shieldcn.dev/views/user/ncdai.svg?base=16941&amp;variant=outline&amp;mode=light&amp;font=geist" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/ncdai/repos.svg?base=51825&amp;variant=outline&amp;font=geist" /><img alt="repo views" src="https://shieldcn.dev/views/user/ncdai/repos.svg?base=51825&amp;variant=outline&amp;mode=light&amp;font=geist" /></picture>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%2C076%20hrs%2030%20mins-blue?style=flat)
