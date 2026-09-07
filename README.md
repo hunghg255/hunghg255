@@ -13,9 +13,7 @@
     <span>learning</span> .
     <a href="https://hunghg.me">me</a> .
     <a href="https://blog.hunghg.me/blogs">blogs</a> .
-    <a href="https://resume.hunghg.me">resume</a> .
-    <a href="https://blog.hunghg.me/tools">projects</a> .
-    <a href="https://npmstat.hunghg.me/">npm-stat</a> .
+    <a href="https://npmstat.hunghg.me/">projects</a> .
     <a href="https://twitter.com/hunghg255">X</a> .
     <a href="http://short.hunghg.me/bsky">bsky</a>
     <br />
