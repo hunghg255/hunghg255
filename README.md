@@ -59,9 +59,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                27909 commits       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+🌞 Morning                27910 commits       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
 🌆 Daytime                58876 commits       █████████████░░░░░░░░░░░░   52.31 % 
-🌃 Evening                22154 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+🌃 Evening                22155 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
 🌙 Night                  3611 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -72,7 +72,7 @@ Tuesday                  18337 commits       ████░░░░░░░�
 Wednesday                26007 commits       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
 Thursday                 25587 commits       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
 Friday                   20275 commits       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Saturday                 4836 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Saturday                 4838 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 Sunday                   3114 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 
@@ -81,45 +81,45 @@ Sunday                   3114 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 9 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
-Markdown                 4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-JSON                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-HTML                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+TypeScript               7 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.43 % 
+Markdown                 3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+HTML                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+JSON                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Other                    1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 53 mins      ████████████░░░░░░░░░░░░░   46.43 % 
-Codex CLI                7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
-Claude Code              4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Codex Vscode             16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+VS Code                  8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
+Codex CLI                7 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.45 % 
+Claude Code              3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Codex Vscode             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 26 mins (70.03%)
+⏱ AI Coding Time: 15 hrs 16 mins (76.14%)
 
-✍️ 5,726 lines written by AI, 762 lines written by hand (88.26% AI-written)
+✍️ 5,699 lines written by AI, 642 lines written by hand (89.88% AI-written)
 
-🔤 4,350,775 Input Tokens, 805,735 Output Tokens
+🔤 3,835,764 Input Tokens, 749,181 Output Tokens
 
-💵 $188.66 Estimated AI Cost This Week
+💵 $179.97 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 148 AI Prompts
+🧠 56 AI Sessions, 137 AI Prompts
 
-GPT                      4,007 lines         █████████████████░░░░░░░░   69.76 % 
-Opus                     1,737 lines         ████████░░░░░░░░░░░░░░░░░   30.24 % 
+GPT                      4,007 lines         ██████████████████░░░░░░░   70.09 % 
+Opus                     1,710 lines         ███████░░░░░░░░░░░░░░░░░░   29.91 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.26% of written lines came from AI
-📄 Detailed Prompter — average 1,026 characters per prompt
+🤖 AI-Driven — 89.88% of written lines came from AI
+📄 Detailed Prompter — average 1,094 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 33.67% of changed lines were hand-edited
+🚀 High AI Trust — 10.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 03:58:24 UTC
+ Last Updated on 13/09/2026 04:00:46 UTC
 <!--END_SECTION:waka-->
 
 
