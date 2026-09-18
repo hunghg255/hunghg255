@@ -15,11 +15,6 @@
     <a href="https://blog.hunghg.me/blogs">blogs</a> .
     <a href="https://npmstat.hunghg.me/">projects</a> .
     <a href="https://twitter.com/hunghg255">X</a> .
-    <a href="http://short.hunghg.me/bsky">bsky</a>
-    <br />
-    <a href="mailto:hi@hunghg.me">mail</a> .
-    <a href="https://gist.github.com/hunghg255">gist</a> .
-    <a href="https://github.com/hunghg255/use">use</a> .
     <a href="https://wakatime.com/@hunghg255">wakatime</a> .
     <a href="https://www.tiktok.com/@onlyfrontend">tiktok</a>
   </samp>
