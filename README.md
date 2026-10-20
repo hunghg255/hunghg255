@@ -21,16 +21,15 @@
 </p>
 </div>
 
-<h2 align='center'>📖 Latest blog posts</h2>
+<h2 align='center'>🚀 Latest projects</h2>
 
-<!-- start-blog-posts -->
-- [ Chiến Lược Caching Trong Production: Cách Chúng Tôi Làm API Nhanh Hơn 67 Lần ](https://blog.hunghg.me/blogs/caching-strategies-in-production-how-we-made-our-api-67x-faster) - `2026-04-05T00:00:00.000Z`
-- [ Thiết Kế API & Database: Từ Code Chạy Được Đến Hệ Thống Mở Rộng ](https://blog.hunghg.me/blogs/api-database-design-from-code-that-works-to-systems-that-scale) - `2026-03-21T00:00:00.000Z`
-- [ Instance Hook Pattern ](https://blog.hunghg.me/blogs/instance-hook-pattern) - `2025-01-07T00:00:00.000Z`
-- [ Tìm hiểu về require và import trong javascript ](https://blog.hunghg.me/blogs/require-vs-import-in-javascript) - `2024-09-24T00:00:00.000Z`
-- [ Tìm hiểu về Tree shaking trong JavaScript ](https://blog.hunghg.me/blogs/understanding-tree-shaking-javascript) - `2024-09-24T00:00:00.000Z`
-- [ SVG icon with pure css ](https://blog.hunghg.me/blogs/svg-icon-with-pure-css) - `2023-12-20T00:00:00.000Z`
-<!-- end-blog-posts -->
+| Project | Description |
+|---|---|
+| [**myzig**](https://github.com/hunghg255/myzig) | Desktop apps in Zig, with native UI drawn on the GPU or a web frontend. Single binaries of about 0.7 MB, zero dependencies. |
+| [**my-monitor**](https://github.com/hunghg255/my-monitor) | A small, smooth activity monitor for Windows with a panel in the taskbar's corner, built on myzig. |
+| [**notes-markdown**](https://github.com/hunghg255/notes-markdown) | Local-first Markdown notes app (Obsidian-style live preview, wiki links, graph, tasks), built on myzig + React. |
+| [**windows-screenshot**](https://github.com/hunghg255/windows-screenshot) | Screenshot tool for Windows with global shortcuts, region selection and an annotation editor, built on myzig. |
+| [**mycode**](https://github.com/hunghg255/mycode) | A small, fast code editor in Go with a native GPU-drawn UI: Git, terminal, search, previews, ~18 MB. |
 
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
