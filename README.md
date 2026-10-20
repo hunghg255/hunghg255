@@ -29,7 +29,7 @@
 | [**my-monitor**](https://github.com/hunghg255/my-monitor) | A small, smooth activity monitor for Windows with a panel in the taskbar's corner, built on myzig. |
 | [**notes-markdown**](https://github.com/hunghg255/notes-markdown) | Local-first Markdown notes app (Obsidian-style live preview, wiki links, graph, tasks), built on myzig + React. |
 | [**windows-screenshot**](https://github.com/hunghg255/windows-screenshot) | Screenshot tool for Windows with global shortcuts, region selection and an annotation editor, built on myzig. |
-| [**mycode**](https://github.com/hunghg255/mycode) | A small, fast code editor in Go with a native GPU-drawn UI: Git, terminal, search, previews, ~18 MB. |
+| [**mycode**](https://github.com/hunghg255/mycode) | A small, fast code editor in Zig with a native GPU-drawn UI: Git, terminal, search, previews, ~18 MB. |
 
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
