@@ -30,6 +30,8 @@
 | [**notes-markdown**](https://github.com/hunghg255/notes-markdown) | Local-first Markdown notes app (Obsidian-style live preview, wiki links, graph, tasks), built on myzig + React. |
 | [**windows-screenshot**](https://github.com/hunghg255/windows-screenshot) | Screenshot tool for Windows with global shortcuts, region selection and an annotation editor, built on myzig. |
 | [**mycode**](https://github.com/hunghg255/mycode) | A small, fast code editor in Zig with a native GPU-drawn UI: Git, terminal, search, previews, ~18 MB. |
+| [**myconnection**](https://github.com/hunghg255/myconnection) | Native desktop app for managing and connecting to VPS: saved hosts, SSH terminal, and SFTP / SCP / FTP file transfer, built on myzig. |
+| [**mydatabase**](https://github.com/hunghg255/mydatabase) | Native database client in Zig with pure-Zig drivers for PostgreSQL, MySQL, SQL Server, Redis, MongoDB and more, an AI assistant and an MCP server, built on myzig. |
 
 <h2 align='center'> 📈 Code Activity Wakatime </h2>
 
